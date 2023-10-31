@@ -5,23 +5,23 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",TV조선2 (720p)
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpeg" group-title="한국",Korea TV
+#EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV.kr" tvg-logo="https://yrocka.github.io/icon/KTV.jpeg" group-title="한국",Korea TV (1080p)
+#EXTINF:-1 tvg-id="KTV.kr" tvg-name="KTV.kr" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="NBS Korea" tvg-name="NBS Korea" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS Korea
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NBS.kr" tvg-name="NBS.kr" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS 농업방송 (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.jpeg" group-title="한국",MBC Korea
+#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.jpeg" group-title="한국",MBC Korea2
+#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea2
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC Gangwon" tvg-name="MBC Gangwon" tvg-logo="https://yrocka.github.io/icon/MBC.jpeg" group-title="한국",MBC 강원영동 (1080p)
+#EXTINF:-1 tvg-id="MBC Gangwon" tvg-name="MBC Gangwon" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 강원영동 (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpeg" group-title="한국",KBS World
+#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpeg" group-title="한국",KBS World
+#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락 (480p)
 http://mytv.dothome.co.kr/ch/catv/3.php
