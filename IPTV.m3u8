@@ -61,6 +61,8 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://yrocka.github.io/icon/CCTV4K.jpg" group-title="中国",CCTV4K
+http://cfss.cc/api/ysp/cctv4k.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
