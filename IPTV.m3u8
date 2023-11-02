@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://cfss.cc/api/ysp/cctv1.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV2
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://yrocka.github.io/icon/CCTV3.png" group-title="中国",CCTV3
@@ -79,3 +80,5 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="SBS TJB" tvg-name="SBS TJB" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS TJB (1080p)
 http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 tvg-id="나혼자산다" tvg-name="나혼자산다" group-title="예능",나혼자산다
+https://kor.hanvid.com/hls/3d98cdf340a14bb60e601b20332c4eca/playlist.m3u8?md5=uk7yV4BfVsAHJpEmdCLOAQ&expires=1698950319
