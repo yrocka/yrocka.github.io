@@ -37,18 +37,46 @@ http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC Gangwon" tvg-name="MBC Gangwon" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 강원영동 (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1699087347&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTkwODczNDd9fX1dfQ__&Signature=hOwqszGwBVMZ4t~rfREXj~qa6KtyvJbShaegGGve5RCJuUhdMCkppUPdY2SJ0ECODUzuBLSeFHJ1GnpUSucBGVbfh2ij2n-7CQx7-cGKPKGj6-qGqKvVALWWl6u5Dn8ZL5I4gs8ibW0k7hXGPBZYTHUdjUA27~eXPHvNsYGwLhPJjf2PKMOe7DYH~BQlBuJDTK2bLuKzKfwUTSKqc6rq4Lr5EUwDJnjkTctf1kX8blG8MwN4Vm3~g48qNlPIwqzsHD~gMwMGYv9AC9T6NG4bQujcu3ZBTVk6gjT0MsWaOieJlIFZkLS1ADzC9AB07Pck6fnu8qv8pVPTw1mZCQNlVQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
+https://vod.kbs.co.kr/embed_live.html?ch_code=11
+#EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2
+https://vod.kbs.co.kr/embed_live.html?ch_code=12 
+#EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1699087681&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTkwODc2ODF9fX1dfQ__&Signature=lD5RaHwDyfbxMz-co51mYLv2mulB7zmR29RgUJSKMoUV8CrkN52ywKgut65mTtwZDeunO53YJVf-Edw5iPwA7tk5kWkkv6eXK-NFJaw17tzFVu78EdZ9E90v8~r7yqIBkrI25RGgwFzpK9S8uVOA2UY5wES80ZK4K-93k84IfzZ5v9P2G1ZZGJqvU-ZA0Ph15zGKUte2T6xPvH9i0HczwG-r2Hz7jspprUvn5VipP~FT0Jc63BpoNCVf0RL8bYDiQhwXKRaUTfEf0dW3FLirwNOZzAZparyFqXHwudBlYupsMiKCp05LC3oTsYwyy7vznTLF8GCuD0jSE0NJc3Htqg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBS1Radio" tvg-name="KBS World" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/4/3/1522738651015_70210.png" group-title="한국",KBS1Radio
+https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Expires=1699087767&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvMXJhZGlvLWJvcmEtMDFfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5OTA4Nzc2N319fV19&Signature=SBHdJ-p-0jexES4TLmaY8eLmd7BVthWqE5AqIG0udRXbG3hb9b~4Fg1Y1ntya-5kafjec6wT2KwtBsKl7nzItiGyA7YspS54DP~sA8FkJh6IY5V1oQOUZQf~mQUWhXZPhOmuy9QwHmvZ80WcMjFoXXxxEl9aqdfjkSDboMy5uEcPGLIzF3tNRVAm1Keqj7WZbtXGKgtD5nl3gqHwBL~QP5R7Ng7IPDLBA-Xqpy0vwIDQNAKY2nt2uigoY0g4rYPvH2JXJjuPcTXWCo8ouuF26ewPWHX6Qdhtqi3BuJmZhG1RvwODnIgpn6y9um72m7hrWsKiqrGH88QbMrZ2A3ulbA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBSNews" tvg-name="KBSNews" tvg-logo="https://padmin.static.kbs.co.kr/live/2021/11/5/1636096742409_283912.png" group-title="한국",KBS NEWS
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1699087914&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5OTA4NzkxNH19fV19&Signature=Jz2Ihydx1bLUEXMFzCzE34hidzC0uPCOO3~KBA3NhcTeNCgq-rbnIDoyS7TNQGOYuYaKOgrAzGstzUBjajyc1zFfB8qt4aYC8QxrU6UHsuuvS3-Db0VGCBMt2KCTDZpGxm9FtvtleQdUzoSxHSMUn1vfRgM6Vv88MZpFwSFiJkY-XaEgrHFe9UMD~tnNfXSRpTzM8C~o-j2UDuqmcU9oXAtH6HRJ-WnShLrm~HgmniugdNPwIddMKdj39VM-JZ8cj8VMsljbDZ5f~h-fPwWZvD~8rVATX4T0~DRhlDyv01VsfxmkcXLe53h-3QWnKIBlmdE349DXU~orGgiPz3zZ6Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
+https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/1000k/playlist.m3u8
+#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
+https://vod.kbs.co.kr/embed_live.html?ch_code=14
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락 (480p)
 http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락 (1080p)
+https://vod.kbs.co.kr/embed_live.html?ch_code=N92
 #EXTINF:-1 tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://yrocka.github.io/icon/KBSDrama.jpeg" group-title="한국",KBS 드라마 (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://yrocka.github.io/icon/KBSDrama.jpeg" group-title="한국",KBS 드라마 (1080p)
+https://vod.kbs.co.kr/embed_live.html?ch_code=N91
 #EXTINF:-1 tvg-id="KBSLife" tvg-name="KBSLife" tvg-logo="https://yrocka.github.io/icon/KBSLIFE.png" group-title="한국",KBS 생활 (480p)
 http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="KBSLife" tvg-name="KBSLife" tvg-logo="https://yrocka.github.io/icon/KBSLIFE.png" group-title="한국",KBS 생활 (1080p)
+https://vod.kbs.co.kr/embed_live.html?ch_code=N93
 #EXTINF:-1 tvg-id="KBSStory" tvg-name="KBSStory"" tvg-logo="https://yrocka.github.io/icon/KBSStory.png" group-title="한국",KBS 이야기 (480p)
 http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="KBSStory" tvg-name="KBSStory"" tvg-logo="https://yrocka.github.io/icon/KBSStory.png" group-title="한국",KBS 이야기 (1080p)
+https://vod.kbs.co.kr/embed_live.html?ch_code=N94
+#EXTINF:-1 tvg-id="YTN" tvg-name="YTN"" tvg-logo="https://yrocka.github.io/icon/YTN.jpg" group-title="한국",YTN
+https://ytn2live.ytn.co.kr/ytn2/_definst_/20211118_ytn2/playlist.m3u8?_lsu_sa_=3a74dcec80c33da56680e0b53af32fd71d9c39982245a5493d97526e4bcb68f1004cfbd739768fc7e58b3550db3fc883d34f507a630f918ea079cdb1468ae2d291b616b63598f07016e3ea2b8cd316f65f1b96aec059ab555707a0d7837c0f2132b8643cc67e75a7d8f75523ee73886f
+#EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.jpeg" group-title="한국",KBS 뉴스24
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Expires=1699088327&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi9uZXdzMjQtMDJfaGQubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5OTA4ODMyN319fV19&Signature=nhuiOTcevNHI2iknye2OL6x5o-45NKgzE49YmIGUSliGaXz4Gi7mMADq3BYmY6VFYbv7KwjKQbDU3FMhihYPrflUxsl4zvlS4oHgdWAUwAHo8~6pc02DGs9YkQf2-AMmF78-PLuluPbPZ99nBQG4umzlQbImtx~~jDZkwozkGzPJH6Lz1uUZPonKB9ssbLAi6vtlS-Ptfw~mdrliWFaRCBo~Sz~wVn-L8XJW1pmUql9tz1bPQpnTpVprHZxXtdRej6Rap7f2NT8kyzKOlu5GCEgd7mkDUeZw8Gn~o4jCeXLTKDJGrl7gyzyawBapj5TwyYuM2lKO6EVvwyfxiTL1CA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 #EXTINF:-1,tvg-id="韩SBS" tvg-name="韩SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS
