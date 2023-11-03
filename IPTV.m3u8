@@ -24,7 +24,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
-https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/1000k/chunklist.m3u8
+https://hls-live.mbn.co.kr/mbn-on-air/1000k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5OTA5NjMyNX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=jrIV3ZP~vqFuaQDylc2ycdGvTfYpObaISWCDunvOr~l1hHdiX14xBaxMCTDBzqrw7lP7XuPlZirm1EDuNZP6MI2t2691WtRBFRiErRVvLaHTvOWmPJ5P-LvOmfi9aJVpVxDZDCVi~JBoMEoSlrNac9MtikTk80tbBC14M0vyplU_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
