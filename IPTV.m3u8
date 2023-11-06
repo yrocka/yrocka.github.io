@@ -17,8 +17,10 @@ http://cfss.cc/api/ysp/cctv4k.m3u8
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://yrocka.github.io/icon/fenghuangzhongwen.png" group-title="中国",凤凰卫视
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://yrocka.github.io/icon/fenghuangzhongwen.png" group-title="中国",凤凰卫视中文台
 https://pull-f5-spe.ixigua.com/yeslivetv.com/9c7163f5-294a-4079-9064-7bf964124b8b/index.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://yrocka.github.io/icon/fenghuangzixun.png" group-title="中国",凤凰卫视资讯台
+https://pull-f5-spe.ixigua.com/yeslivetv.com/399148324-510152706/index.m3u8
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -31,8 +33,6 @@ http://mytv.dothome.co.kr/ch/catv/54.php
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1699410306&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk0MTAzMDZ9fX1dfQ__&Signature=mbtBV2dA~GgzLfAqe-sgZJpC~G0Weenxtv2c1OJU0V~7VZIo8PN4X6pRpKHo8HraRatCMibmN-V5dNTj2or5~WAsksy16P2-MVuTiZEXN5WVh3~EOLFX7RhqC05N3r513vlXr0~AstMJeMs48ywfvI29P4LXz86qX0ilzABPKC8Xu3oBeF6oNyyBckxb8d-0MqQw5jbscVeOLBd2E5zLkKDyV4DV2zn~Nx5MfuqDsvoLIdIfK871d2CzZD9Sl5KdYqtcMmJBmCywAiYuLS2NpLbEm7bDXDtYh8XcHCwtEUsFQM38ZllGigXbJeEKxIGIJaoFBJcYF5b0oa55vmYqgg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1699410298&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk0MTAyOTh9fX1dfQ__&Signature=kfL3Dhv0LA7m96LoiQ9sbhxY94AmoNyyq1PStuSBAp8SMbJQTOSuahV9XWcFpc10mrBoQo199JmBNuS~8E9qrRbJE87B8vrG-E-Vz3k9nOzreQwrjVtmEG2OPK4yCoA6nzhW5N0z90JhGDnre7kP~qQDo9iC3YXUv2m7R0ZCY4V0RDj~lUWQE8-Ic2BoRDMNgTn9qQ4mU8Ad4~ddNusUHdVe-GLgoWJ3Uea-1v~oqp6b7MZ7WYNN9~OxjcRoQhj1ckFBn44D0nI1cXaH7XY-7n3w0RbsaoIR2y1JnyTirt-yhWgteqlR05RqzSRA1yVgfpWHZ6G7m1KFvhsZAv5avA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.jpeg" group-title="한국",KBS 뉴스24
-http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
@@ -43,27 +43,29 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBSStory" tvg-name="KBSStory"" tvg-logo="https://yrocka.github.io/icon/KBSStory.png" group-title="한국",KBS 이야기
 http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.jpeg" group-title="한국",KBS 뉴스24
+http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea
+#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea2
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1,tvg-id="YTN" tvg-name="YTN" tvg-logo="https://yrocka.github.io/icon/YTN.jpg" group-title="한국",YTN
-https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/chunklist.m3u8?_lsu_sa_=3dd467e560b13de56e87a0ed3ab3c0d62de338584e4b854d3a87dc6a1ba7616123491b9e3e06bbc275773290d23138947dba3b118a4f363733583ccdff069cf330bb4f022fdd697a69ea6382669306f31d213adc06379960d433e10203187b55de3b7f48dfa1461fc735123a8070f909
+#EXTINF:-1,tvg-id="NBS Korea" tvg-name="NBS Korea" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS Korea
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1,tvg-id="YTN 과학" tvg-name="YTN 과학" tvg-logo="https://yrocka.github.io/icon/YTN.png" group-title="한국",YTN 과학
 http://mytv.dothome.co.kr/ch/catv/261.php
-#EXTINF:-1 tvg-id="NBS.kr" tvg-name="NBS.kr" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS 농업방송
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV" tvg-name="ArirangTV" tvg-logo="https://yrocka.github.io/icon/ArirangTV.png" group-title="한국",아리랑TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JCN TV" tvg-name="JCN TV" tvg-logo="https://yrocka.github.io/icon/JCN.jpeg" group-title="한국",JCN TV
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://yrocka.github.io/icon/KCTV.jpeg" group-title="한국",KCTV 광주 
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS KNN" tvg-name="SBS KNN" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS KNN
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="SBS CJB" tvg-name="SBS CJB" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS KNN" tvg-name="SBS KNN" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS KNN
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="SBS TJB" tvg-name="SBS TJB" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS TJB
 http://1.245.74.5:1935/live/tv/.m3u8
