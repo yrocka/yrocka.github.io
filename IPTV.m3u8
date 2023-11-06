@@ -27,10 +27,6 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
-#EXTINF:-1,tvg-id="YTN" tvg-name="YTN" tvg-logo="https://yrocka.github.io/icon/YTN.jpg" group-title="한국",YTN
-https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/playlist.m3u8?_lsu_sa_=36c49beda0c639455187700635e3c6db9d563578ea42d5943d07016afb996b810744bb09337698ca15753f90f33478bdd90178a610bb332638d43a5263c052a58292fa66b60cbb05d1eeadcb6f2f36a928e0d899c9bd0be8ea61d7b74da96301a5b59479758b0e31554ed6c95c3189af
-#EXTINF:-1,tvg-id="YTN 과학" tvg-name="YTN 과학" tvg-logo="https://yrocka.github.io/icon/YTN.png" group-title="한국",YTN 과학
-http://mytv.dothome.co.kr/ch/catv/261.php
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1699410306&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk0MTAzMDZ9fX1dfQ__&Signature=mbtBV2dA~GgzLfAqe-sgZJpC~G0Weenxtv2c1OJU0V~7VZIo8PN4X6pRpKHo8HraRatCMibmN-V5dNTj2or5~WAsksy16P2-MVuTiZEXN5WVh3~EOLFX7RhqC05N3r513vlXr0~AstMJeMs48ywfvI29P4LXz86qX0ilzABPKC8Xu3oBeF6oNyyBckxb8d-0MqQw5jbscVeOLBd2E5zLkKDyV4DV2zn~Nx5MfuqDsvoLIdIfK871d2CzZD9Sl5KdYqtcMmJBmCywAiYuLS2NpLbEm7bDXDtYh8XcHCwtEUsFQM38ZllGigXbJeEKxIGIJaoFBJcYF5b0oa55vmYqgg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
@@ -53,6 +49,10 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1,tvg-id="YTN" tvg-name="YTN" tvg-logo="https://yrocka.github.io/icon/YTN.jpg" group-title="한국",YTN
+https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/chunklist.m3u8?_lsu_sa_=3dd467e560b13de56e87a0ed3ab3c0d62de338584e4b854d3a87dc6a1ba7616123491b9e3e06bbc275773290d23138947dba3b118a4f363733583ccdff069cf330bb4f022fdd697a69ea6382669306f31d213adc06379960d433e10203187b55de3b7f48dfa1461fc735123a8070f909
+#EXTINF:-1,tvg-id="YTN 과학" tvg-name="YTN 과학" tvg-logo="https://yrocka.github.io/icon/YTN.png" group-title="한국",YTN 과학
+http://mytv.dothome.co.kr/ch/catv/261.php
 #EXTINF:-1 tvg-id="NBS.kr" tvg-name="NBS.kr" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS 농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV" tvg-name="ArirangTV" tvg-logo="https://yrocka.github.io/icon/ArirangTV.png" group-title="한국",아리랑TV
