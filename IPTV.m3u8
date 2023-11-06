@@ -49,13 +49,11 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/playlist.m3u8?_lsu_sa_=36c49beda0c639455187700635e3c6db9d563578ea42d5943d07016afb996b810744bb09337698ca15753f90f33478bdd90178a610bb332638d43a5263c052a58292fa66b60cbb05d1eeadcb6f2f36a928e0d899c9bd0be8ea61d7b74da96301a5b59479758b0e31554ed6c95c3189af
 #EXTINF:-1,tvg-id="YTN 과학" tvg-name="YTN 과학" tvg-logo="https://yrocka.github.io/icon/YTN.png" group-title="한국",YTN 과학
 http://mytv.dothome.co.kr/ch/catv/261.php
-#EXTINF:-1,tvg-id="NBS Korea" tvg-name="NBS Korea" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS Korea
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NBS.kr" tvg-name="NBS.kr" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS 농업방송
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea2
+#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC Korea
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV" tvg-name="ArirangTV" tvg-logo="https://yrocka.github.io/icon/ArirangTV.png" group-title="한국",아리랑TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -63,11 +61,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://yrocka.github.io/icon/KCTV.jpeg" group-title="한국",KCTV 광주 
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 tvg-id="SBS CJB" tvg-name="SBS CJB" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS CJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS KNN" tvg-name="SBS KNN" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS KNN
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="SBS CJB" tvg-name="SBS CJB" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS TJB" tvg-name="SBS TJB" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS TJB
 http://1.245.74.5:1935/live/tv/.m3u8
