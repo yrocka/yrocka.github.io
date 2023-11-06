@@ -46,7 +46,7 @@ https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1699410298&Policy=eyJTdGF0ZW1lbnQ
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="YTN" tvg-name="YTN" tvg-logo="https://yrocka.github.io/icon/YTN.jpg" group-title="한국",YTN
-https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/chunklist.m3u8?_lsu_sa_=3c44e2e6804b3305d38fa04e3a8339debd8f38e8b34b950d34075d699b8e6491c74a9b3f3d16efc2158f3ac03232c8283c7ed7b64be06091dd59adbecd511c38b5ad89d7b82f990240e90e50ac6da4b5596b322389403ad553a1622f62c35f31746c3e8b6c65b1a5017a7f0a088b30bd
+https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/playlist.m3u8?_lsu_sa_=36c49beda0c639455187700635e3c6db9d563578ea42d5943d07016afb996b810744bb09337698ca15753f90f33478bdd90178a610bb332638d43a5263c052a58292fa66b60cbb05d1eeadcb6f2f36a928e0d899c9bd0be8ea61d7b74da96301a5b59479758b0e31554ed6c95c3189af
 #EXTINF:-1,tvg-id="YTN 과학" tvg-name="YTN 과학" tvg-logo="https://yrocka.github.io/icon/YTN.png" group-title="한국",YTN 과학
 http://mytv.dothome.co.kr/ch/catv/261.php
 #EXTINF:-1,tvg-id="NBS Korea" tvg-name="NBS Korea" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS Korea
