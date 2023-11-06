@@ -45,7 +45,7 @@ https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1699410306&Policy=eyJTdGF0ZW1lbnQ
 https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1699410298&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk0MTAyOTh9fX1dfQ__&Signature=kfL3Dhv0LA7m96LoiQ9sbhxY94AmoNyyq1PStuSBAp8SMbJQTOSuahV9XWcFpc10mrBoQo199JmBNuS~8E9qrRbJE87B8vrG-E-Vz3k9nOzreQwrjVtmEG2OPK4yCoA6nzhW5N0z90JhGDnre7kP~qQDo9iC3YXUv2m7R0ZCY4V0RDj~lUWQE8-Ic2BoRDMNgTn9qQ4mU8Ad4~ddNusUHdVe-GLgoWJ3Uea-1v~oqp6b7MZ7WYNN9~OxjcRoQhj1ckFBn44D0nI1cXaH7XY-7n3w0RbsaoIR2y1JnyTirt-yhWgteqlR05RqzSRA1yVgfpWHZ6G7m1KFvhsZAv5avA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-#EXTINF:-1,tvg-id="YTN" tvg-name="YTN" tvg-logo="https://yrocka.github.io/icon/YTN.jpg group-title="한국",YTN
+#EXTINF:-1,tvg-id="YTN" tvg-name="YTN" tvg-logo="https://yrocka.github.io/icon/YTN.jpg" group-title="한국",YTN
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/chunklist.m3u8?_lsu_sa_=3c44e2e6804b3305d38fa04e3a8339debd8f38e8b34b950d34075d699b8e6491c74a9b3f3d16efc2158f3ac03232c8283c7ed7b64be06091dd59adbecd511c38b5ad89d7b82f990240e90e50ac6da4b5596b322389403ad553a1622f62c35f31746c3e8b6c65b1a5017a7f0a088b30bd
 #EXTINF:-1,tvg-id="YTN 과학" tvg-name="YTN 과학" tvg-logo="https://yrocka.github.io/icon/YTN.png" group-title="한국",YTN 과학
 http://mytv.dothome.co.kr/ch/catv/261.php
