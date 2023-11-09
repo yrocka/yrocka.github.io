@@ -18,7 +18,7 @@ http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/inde
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://yrocka.github.io/icon/fenghuangzhongwen.png" group-title="中国",凤凰卫视中文台
 https://pull-f5-spe.ixigua.com/yeslivetv.com/9c7163f5-294a-4079-9064-7bf964124b8b/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://yrocka.github.io/icon/fenghuangzixun.png" group-title="中国",凤凰卫视资讯台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/530028413-123553728/index.m3u8
+https://pull-f5-spe.ixigua.com/yeslivetv.com/874444352-484223946/index.m3u8
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -28,9 +28,9 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1699519066&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk1MTkwNjZ9fX1dfQ__&Signature=UYY22Vyi~EZsCg8WOk05NS~SUkH6MmfPVixLWoJUsqhguky-XckiIcT2mjAnlbhdsTgkEIP2dDuZ0qTDd4mImJOXBt01y9LzrnB0c3Dto5tGSrFeYW04iVbJLbOtwrVMqmC07qZ8YrlV2s31U6hq2GaeEVTy4rcZM4obWtXqLv9mWehsN8ue7gCfIVx~ZFRddbH~qr2zon67v7RN0BQGITx-wRAP40RdiX35uPC76r4bVoRZxyPsIh7VxdFir55w2SE9mcUY9LSIXxPLJ0W~Ku8WBvhgpR4AEopVg1Uvqe7q4afQ0G~nZX-lkeXhb-nK-yhXCK~6bO~ucMmisDG8vw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1699664861&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk2NjQ4NjF9fX1dfQ__&Signature=J3Y3xrCc~qE3Th0HVZFbELboBwdSuGtzpulhRABnQDY3IbmXE0TzT3fpgm~in-CmN3winPKXOsVCpFD8ea6aOgyUA8kGAwz5lmbA3KC4nSUseJ6rjCHuwOG7xCL1FYJb1n~HEc~9KUKq3OX01XEd6EBJdj~84~up29uFwcsPThqs70P3LsNvrWAUsGSusk1r4cwsrJbm4zybRlB-mnxDRxdImNTb8Y-hKbIOaAQRfgj9XGC9dQ2ONIlxX7yjxTnUL7aqBY9dvZRcag-KnfxfYwqdHXhQ-jOyTGjrGns~NGQ~knLrUc5hUyvomLiJRNp35riutO5TcsBY9YZcAksfcw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1699519067&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk1MTkwNjd9fX1dfQ__&Signature=IeMo5Efyu7IUitvQeUPP7KGL7IELnEV9SKff~Eg3r9XSe3CrPm8FF8MXMeX9C4dr97Zrlp1jWu1br~1P8NB87IGXPbKEQkLMQ9BZEmewu7TsJTdNchYc4GoXC~FnRhzMqYdawbgyGL9Zv3uxO4HB4c1PE-Zwcck2EFrlT--NbxZgxphE8syGugMaVm6tah3GG3LKOJ7DcnwS3F3nVbCF6PJ4uI3lQIEK2MmVK2w2i6p2e9GszcLhG5dN3alKDOjtl7SGiATQU4LuaKZRSNHGuI5bg44t6ISyBkv5eeWV5WeQtuoPi9k-24~xut~ZOslOKmxtDon-DPNM~E3oo7qOrA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1699664906&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTk2NjQ5MDZ9fX1dfQ__&Signature=XXSwBawkZCHfovIQdfYmBomUZaBiDUSCvOs2gewUyQTNoN4i1mGgF0gXyQPmMBsxXKv-MyFdAiG42I9ilYGAhpVgbFNvZO1O-oinJ8z9bxcE7vGy32yQDGzmdk6sLiwF6gJ~P1wyN1cLuAO~tKgdesVKV8CwugZGqzLVA4SRBQhfEfxMzLyGOhCSNyCB~4cubo9Ttv1mIUz8nzP7HrBRQXqUYre2brQiqeYXrxO~UibF0~3r3ZLqYcpBBR73pukr0WrpbROpqvC4j~zT4uRxGVyz4Mc4F7KUPqTOUPHysL83KuCYt1af~mpwvwa1~xaBrCyvqyxS5rBrEbu-rsqIWA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
