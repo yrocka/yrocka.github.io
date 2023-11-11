@@ -15,16 +15,6 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
 http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
-#EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视资讯台.png" group-title="中国",凤凰卫视资讯台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/844227634-868790463/index.m3u8?by=yeslivetv.com
-#EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png" group-title="中国",凤凰卫视中文台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/914285507-529566539/index.m3u8?by=yeslivetv.com
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="中国",TVBS新闻台
-https://pull-f5-spe.ixigua.com/yeslivetv.com/273970360-87732858/index.m3u8?by=yeslivetv.com
-#EXTINF:-1,tvg-id="TVBS56台" tvg-name="TVBS56台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="中国",TVBS 56台
-https://yes.livednow.com/yeslive/hi2/vod/4gtv-4gtv073-avc1_6000000=1-mp4a_138000_zho=7.m3u8?content=4gtv-4gtv073&md5=b928c214afea62e90ab38ce7ae5e3da7&expires=1700899671
-#EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/緯來體育台.png" group-title="中国",纬来体育
-https://pull-f5-spe.ixigua.com/yeslivetv.com/339359694-685388623/index.m3u8?by=yeslivetv.com
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
