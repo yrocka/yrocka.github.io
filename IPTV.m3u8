@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1 综合
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://124.234.172.107:9901/tsfile/live/0001_1.m3u8?url=tvzb.com
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2 财经
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+http://124.234.172.107:9901/tsfile/live/0002_1.m3u8?url=tvzb.com
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://yrocka.github.io/icon/CCTV3.png" group-title="中国",CCTV-3 综艺
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+http://124.234.172.107:9901/tsfile/live/0003_1.m3u8?url=tvzb.com
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+http://124.234.172.107:9901/tsfile/live/0004_1.m3u8?url=tvzb.com
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5 体育
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+http://124.234.172.107:9901/tsfile/live/0005_1.m3u8?url=tvzb.com
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13 新闻
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+http://124.234.172.107:9901/tsfile/live/0013_1.m3u8?url=tvzb.com
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
-http://jltpc.x3322.net:9901/tsfile/live/0132_1.m3u8?key=txiptv
+http://124.234.172.107:9901/tsfile/live/0132_1.m3u8?url=tvzb.com
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
