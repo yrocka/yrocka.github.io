@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1 综合
-http://124.234.172.107:9901/tsfile/live/0001_1.m3u8?url=tvzb.com
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2 财经
-http://124.234.172.107:9901/tsfile/live/0002_1.m3u8?url=tvzb.com
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://yrocka.github.io/icon/CCTV3.png" group-title="中国",CCTV-3 综艺
-http://124.234.172.107:9901/tsfile/live/0003_1.m3u8?url=tvzb.com
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
-http://124.234.172.107:9901/tsfile/live/0004_1.m3u8?url=tvzb.com
+http://111.20.40.164/PLTV/88888893/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5 体育
-http://124.234.172.107:9901/tsfile/live/0005_1.m3u8?url=tvzb.com
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13 新闻
-http://124.234.172.107:9901/tsfile/live/0013_1.m3u8?url=tvzb.com
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
@@ -30,9 +28,9 @@ https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1700670746&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDA2NzA3NDZ9fX1dfQ__&Signature=NsQ4pBkDzUjQVOIJmO3bAA-l2K50lFG9Dx7b5Md4x~yX1XkuK0i3AI7KXJ3L~amt8v6IqlwaXE7Gs1s0-Uf14lx8Ho7mAlqQ2KYdRIpbAZNuTvojt0xBW~HFPcVxfYFfLMC5gRhfEX4MAB8S1t1bFf-K5XTaH6Rxm9FJTf39DCVjK6iD~gxHfPk9wmBZqn1mjw6l5KMeMohLEDWY78Miusl6CdwoP4B9aXS54cDZ0DJQVZ1~tAtoh~XUgencTJdPFpU0hcslqe~HBjuh5R8oV75AjQIztZ6Py2xNO-Si5fqPkULW9GY-zL1pyPZWru9WFElzkajz79c6yCQuQF9gEA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1700827365&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDA4MjczNjV9fX1dfQ__&Signature=e0eWCuYhOg-C-1A2oGz0xWCCo5Beb-lwHC0US2Jr5012XuYH4KTY5VxxWW4KLbqva88N~~l-~Pa~yv3IGO3adZrOqPJ6CWgIa-QZwzwCf5zgnFJmNiSlExN5JE0KqD2dMqy~IIpNDGxRLDbqQhNKtgcs3JK0JLUGRpzMShqCZ6wWDlgBY~WuTzk2SGPZWo7GDhK3hsXi6qxy4A9RVJu6WB~j7eEDhL6B3mCta7wttrfg5-avgOZom9z62GmN9zGe7YFfoQdluqab4rjD~XGUlaibFsthNeffra8eGBAtW92OmnRGOqzEIBAHwiXYteT6LE~JWbdHCuT299318A-TIQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1700670749&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDA2NzA3NDl9fX1dfQ__&Signature=dnAaVRzKZC6-zukxjrie6ydx6jquf6l2d6DGHCytNCENffWVxLB5gwqz0lCBYvtvgrPH4vrhK-GnGOG6k8AuIOGU8Rmf3es2Sh6tb9n5Du7I7A2MfYOiLVF9UNH7u0CeJoIMxj9O34tujBZuqd-RcCZUFOj2GBwNruCBfl~TcYJ2sXkxnLkdNpDDSQBrlbCYiMPVYcQs~RP2KUicWXfvJ2t2YJ7L9dW2ti8Ptn99Em0Q6G5CN0PajnyqD45nOsUljKZ2xjSOxdFeSNiW1TZ-FLW4otjT2ngMYfe005oTpPFxn4L4tJTB~~zS2bZL10jZq-wW77bhYHA1u0yUI6Uvvw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1700827418&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDA4Mjc0MTh9fX1dfQ__&Signature=AiRNvtSmoweviostJQPkUaoK1FqMI99Z8qu4T7meJMBeL1SpxNL7xgIALBlVM34ZjeARC~YAgoVRuP8fZCkcFGXpr-9gHMU5nf4zmp87DdxjdVp36TdcmbKNdscX0en7sAcgjfTSjSHNY2kMIGHw~MIEctBZuIhRNz90DpB8Qem2uhgOsfMOPwqSnLIXx-V8OgazfBGknzpLYO4w51GbFpGJeyLDRicaLnp~m2TMter8A0mnTfCQ7tSnRGLDu5sdJArjTyHruYGV3ibeJPna2GMFVEHVhOgG8G0q6meCmyYxSGsV8WJGLwUW8pvIAN0xGCPRWE6bt8AZc5A8OpMGzQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBS.jpg" group-title="한국",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
