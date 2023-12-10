@@ -4,15 +4,21 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2 财经
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
-http://111.20.40.164/PLTV/88888893/224/3221226191/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5 体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13 新闻
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="中国",CCTV16-4K
+http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
+https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
 http://124.234.172.107:9901/tsfile/live/0132_1.m3u8?url=tvzb.com
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
+https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
