@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
+#EXTINF:-1 group-title="Asia News" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWorld FHD
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="Asia News" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWorld HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 group-title="Asia News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",ArirangTV FHD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Asia News" tvg-logo="https://epg.112114.xyz/logo/CNA.png",CNA
+http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
 #EXTINF:-1 channel-id="samsung-USBA3000041ZP" tvg-id="USBA3000041ZP" tvg-chno="1000" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/58/USBA3000041ZP_20220810T035042.png" group-title="Movies",The Movie Hub
 https://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-USBC600001QL" tvg-id="USBC600001QL" tvg-chno="1001" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/25/USBC600001QL_20220810T035054.png" group-title="Sports",T2
@@ -433,15 +441,3 @@ https://d2lzzmzt70lih2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446cb46e2cc6697270cb-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
 #EXTINF:-1 channel-id="samsung-USAJ4000011W6" tvg-id="USAJ4000011W6" tvg-chno="1517" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/USAJ4000011W6_20220330T044514.png" group-title="Music",Vevo Pop
 https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
-#EXTINF:-1 group-title="Asia News" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld FHD
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="Asia News" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld HD
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:-1 group-title="Asia News" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV FHD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Asia News" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Asia News" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg",ArirangTV HD
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="Asia News" tvg-logo="https://epg.112114.xyz/logo/CNA.png",CNA
-http://50.7.238.114:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
