@@ -4,6 +4,8 @@ https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4
+http://cfss.cc/api/ysp/cctv4.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4
 https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
