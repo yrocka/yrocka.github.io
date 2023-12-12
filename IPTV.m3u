@@ -258,3 +258,93 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="IHOT",华数超清
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+
+
+
+
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="NBA Atlanta Hawks (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Atlanta Hawks (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289547.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Boston Celtics (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Boston Celtics (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186928.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Brooklyn Nets (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Brooklyn Nets (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289549.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Charlotte Hornets (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Charlotte Hornets (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186929.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Chicago Bulls(Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Chicago Bulls(Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186936.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Cleveland Cavaliers (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Cleveland Cavaliers (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186933.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Dallas Mavericks (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Dallas Mavericks (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186927.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Denver Nuggets (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Denver Nuggets (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289560.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Detroit Pistons (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Detroit Pistons (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289559.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Golden State Warriors (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Golden State Warriors (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289558.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Houston Rockets (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Houston Rockets (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186937.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Indiana Pacers (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Indiana Pacers (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/165653.ts
+#EXTINF:-1 tvg-id="ESPNPlusLatinAmerica.pa" tvg-name="NBA Los Angeles Clippers (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Los Angeles Clippers (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/183832.ts
+#EXTINF:-1 tvg-id="ESPNPlusLatinAmerica.pa" tvg-name="NBA Los Angeles Lakers (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Los Angeles Lakers (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/183833.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Memphis Grizzlies (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Memphis Grizzlies (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289546.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Miami Heat (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Miami Heat (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186924.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Milwaukee Bucks (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Milwaukee Bucks (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186925.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Minnesota Timberwolves (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Minnesota Timberwolves (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186926.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA San Antonio Spurs (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA San Antonio Spurs (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289550.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA New Orleans Pelicans (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA New Orleans Pelicans (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186934.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA New York Knicks (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA New York Knicks (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289555.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Oklahoma City Thunder (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Oklahoma City Thunder (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289557.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Orlando Magic (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Orlando Magic (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289556.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Philadelphia 76ers (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Philadelphia 76ers (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186935.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Phoenix Suns (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Phoenix Suns (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186930.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Portland Trail Blazers (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Portland Trail Blazers (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186931.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA Sacramento Kings (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Sacramento Kings (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/186932.ts
+#EXTINF:-1 tvg-id="ESPNCollegeExtra8.us" tvg-name="NBA Toronto Raptors (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Toronto Raptors (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/165572.ts
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="NBA Utah Jazz (Match Time Only)" tvg-logo="" group-title="PPV - MAIN EVENT",NBA Utah Jazz (Match Time Only)
+http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/289552.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Camo Sharks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Uw5SYK7iAlSZnbQX9ay6BSvyRu.jpg" group-title="DOCUMENTARY",Camo Sharks (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Come Out Fighting (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDZchncQsRj2QIX8K0lzvM9mXGa.jpg" group-title="WAR",Come Out Fighting (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Counting Jaws (2022)" tvg-logo="http://qqtv.bz:8080/images/b0124755b5144d0cda29c3f2c47ff451.jpg" group-title="DOCUMENTARY",Counting Jaws (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Making Time (2022)" tvg-logo="http://qqtv.bz:8080/images/e362b39a7c99ed0e5550822034584828.jpg" group-title="DOCUMENTARY",Making Time (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shark Queens (2022)" tvg-logo="http://qqtv.bz:8080/images/723cf9900e474c9c426c0a601188b075.jpg" group-title="DOCUMENTARY",Shark Queens (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sharks (2022)" tvg-logo="http://qqtv.bz:8080/images/2362c598ced8fbca009bab20258490ae.jpg" group-title="DOCUMENTARY",Sky Sharks (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Quiet Epidemic (2022)" tvg-logo="http://qqtv.bz:8080/images/3a3678d7ee8e305efbfac42eff7c7cd0.jpg" group-title="DOCUMENTARY",The Quiet Epidemic (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Unfinished Business (2022)" tvg-logo="http://qqtv.bz:8080/images/dc3f24baecce968200133550dd54e7a1.jpg" group-title="DOCUMENTARY",Unfinished Business (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/450399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Middle: Cascadia Guides (2022)" tvg-logo="http://qqtv.bz:8080/images/92452e35809e92c465b402d639c1571f.jpg" group-title="DOCUMENTARY",The Middle: Cascadia Guides (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/446810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Year of Television (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjRlODg4ZGUtOGM5YS00MmU2LThiNmYtYmZiZDhjOWM5N2Q4XkEyXkFqcGdeQXVyMDM3ODU0Nw@@._V1_QL75_UY207_CR13,0,140,207_.jpg" group-title="COMEDY",The Last Year of Television (2020)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/446809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conversion (2022)" tvg-logo="http://qqtv.bz:8080/images/a6280747ff7706a351c1c079cc5dbb75.jpg" group-title="DOCUMENTARY",Conversion (2022)
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/446804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE SHOW: California Love" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWNmMTM3OTQtZmMwZC00YjYxLTg5NjQtMzVhZGRmZTBiNWYxXkEyXkFqcGdeQXVyMTUyMTU1MDg1._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="DOCUMENTARY",THE SHOW: California Love
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/445784.mp4
