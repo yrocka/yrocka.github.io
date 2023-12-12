@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2
@@ -63,13 +63,12 @@ https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 tvg-id="SBS CJB" tvg-name="SBS CJB" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS CJB
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS KNN" tvg-name="SBS KNN" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS KNN
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS KNN
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="SBS TJB" tvg-name="SBS TJB" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS TJB
-http://1.245.74.5:1935/live/tv/.
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS TJB
+http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3200028P2" tvg-id="KRBC3200028P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200028P2_20230726T002428SQUARE.png_20230726002429.png" tvg-chno="502" group-title="예능" , tvN 미스터 션샤인
 https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
 #EXTINF:-1 channel-id="samsung-KRBB5000069BS" tvg-id="KRBB5000069BS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000069BS_20230823T005024SQUARE.png_20230823005025.png" tvg-chno="505" group-title="예능" , MBC 무한도전
