@@ -43,11 +43,9 @@ http://mytv.dothome.co.kr/ch/catv/5.php
 http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.png" group-title="한국",KBS 뉴스24
 http://mytv.dothome.co.kr/ch/catv/1.php
-#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 1
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/16352.ts
-#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 2
+#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 3
+#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
