@@ -223,10 +223,6 @@ https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8
 https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20230308T013144SQUARE.png_20230308013145.png" tvg-chno="752" group-title="예능" , 빌리어즈TV 레전드
 https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
-#EXTINF:-1 channel-id="samsung-KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500039Y5_20230524T004227SQUARE.png_20230524004228.png" tvg-chno="800" group-title="예능" , Bloomberg TV+ UHD
-https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
-#EXTINF:-1 channel-id="samsung-KRBB500044GP" tvg-id="KRBB500044GP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20230524T004225SQUARE.png_20230524004225.png" tvg-chno="801" group-title="예능" , Bloomberg Originals
-https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC5000020AF" tvg-id="KRBC5000020AF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20230614T012821SQUARE.png_20230614012822.png" tvg-chno="833" group-title="예능" , JTBC 슈가맨
 https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="예능" , JTBC 최강야구
@@ -241,18 +237,6 @@ https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
 https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="예능" , 씨네21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
-#EXTINF:-1 channel-id="samsung-USBA3400003IP" tvg-id="USBA3400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20230131T052034SQUARE.png_20230131052035.png" tvg-chno="1404" group-title="예능" , Love Nature 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
-#EXTINF:-1 channel-id="samsung-GBAJ49000184K" tvg-id="GBAJ49000184K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png" tvg-chno="4411" group-title="예능" , Travelxp
-https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
 
 #EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="영화" , 영화 채널
 https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Poongsan (Korean) - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph8kuXsZzLmcyb0NpvtqYrSE0Zj.jpg" group-title="영화",Poongsan (Korean) - 2011
-http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/390486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Flu (Korean, English, Filipino) - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvTXhTddHIZbOU9pmrcPODI1kRx.jpg" group-title="영화",The Flu (Korean, English, Filipino) - 2013
-http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/391569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hwayi: A Monster Boy (Korean) - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2O3v15Gxgc1Z89AL3QkJmIJQf9.jpg" group-title="영화",Hwayi: A Monster Boy (Korean) - 2013
-http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/391570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="New World (Korean, Mandarin) - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJoeQ0ihQvg2ufEAFp1GydfMCWK.jpg" group-title="영화",New World (Korean, Mandarin) - 2013
-http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/391572.mp4
