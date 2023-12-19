@@ -219,8 +219,6 @@ https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8
 https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8
 #EXTINF:-1 channel-id="samsung-KRAH4602000A" tvg-id="KRAH4602000A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20230322T010922SQUARE.png_20230322010923.png" tvg-chno="700" group-title="예능" , 현대홈쇼핑+Shop
 https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8
-#EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="예능" , NEW MOVIES
-https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="예능" , OGN 스타리그
 https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200011N3_20230308T013144SQUARE.png_20230308013145.png" tvg-chno="752" group-title="예능" , 빌리어즈TV 레전드
@@ -247,3 +245,14 @@ https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
 #EXTINF:-1 channel-id="samsung-GBAJ49000184K" tvg-id="GBAJ49000184K" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000184K_20221026T004715SQUARE.png_20221026004716.png" tvg-chno="4411" group-title="예능" , Travelxp
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
+
+#EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="영화" , 영화 채널
+https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Poongsan (Korean) - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ph8kuXsZzLmcyb0NpvtqYrSE0Zj.jpg" group-title="영화",Poongsan (Korean) - 2011
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/390486.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Flu (Korean, English, Filipino) - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvTXhTddHIZbOU9pmrcPODI1kRx.jpg" group-title="영화",The Flu (Korean, English, Filipino) - 2013
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/391569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hwayi: A Monster Boy (Korean) - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2O3v15Gxgc1Z89AL3QkJmIJQf9.jpg" group-title="영화",Hwayi: A Monster Boy (Korean) - 2013
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/391570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New World (Korean, Mandarin) - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJoeQ0ihQvg2ufEAFp1GydfMCWK.jpg" group-title="영화",New World (Korean, Mandarin) - 2013
+http://mag.qqtv.bz:8080/movie/seb_william@hotmail.com/1947944/391572.mp4
