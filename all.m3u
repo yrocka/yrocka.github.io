@@ -27,8 +27,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/32212281
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.eu.org/logo/CCTV2.png" group-title="央视",CCTV2
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.eu.org/logo/CCTV3.png" group-title="央视",CCTV3
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.eu.org/logo/CCTV4.png" group-title="央视",CCTV4
@@ -104,6 +102,31 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 
 #EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="卫视",上海第一财经
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+#EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K2.png" group-title="卫视",咪咕体育
+http://[2409:8087:1a01:df::4006]/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K2.png" group-title="卫视",咪咕体育
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226227/1.m3u8
+
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226134/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226130/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226145/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226151/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226149/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226132/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226147/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226138/1.m3u8
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="卫视",BesTV
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226136/1.m3u8
 
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
