@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2
@@ -27,10 +26,10 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
-#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
-https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-#EXTINF:-1 tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.png" group-title="한국",KBS2
-https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+#EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1705752180&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3NTIxODB9fX1dfQ__&Signature=OlsnL51WAdJGYuApVA-mJix-9MVOVRgnNUHe1Rv4VpQZvio7aBV4ujBz96w4eTN1j5PIWnZfMk34q9EvtcFrG46sKX-yHZqO1PxbOwhGeR5p9ilL80G5F9E153FyH3DwlXlr98R9fXxKFfds~uLtYHtd5gv7Tx9juiCvujWMtru7ikvE5FIMz9OJh9t7PcQATdCIaXMqn4tyLNdVyhuopkJYjlXOBIuSZBn3jKRZXYhfxQU8F~c5TCZZ5JXr7lre3vIbnHN99yUQS7RHEd2yirP6Apg44FfkJLhrrFWEXkxSixLGylgAeIvS6G2Nrb2su5u-~m2~P5G9bV8drKl2JA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1705752242&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3NTIyNDJ9fX1dfQ__&Signature=VL-g1H5ciM6Q80ExgFPkP8UPNjuWHPGJ0LLNmgyorfDzsLbZ9CMrraLumBuq4z-plQxGsN3sVNRVsR0mrc~cGQy2Vh6ZERFXmW20St1Br7E4MGs6HAlJtFQ-6XzwWZqKCMhEb8Cy385tctR7wiaxCXQyOecCKFUbYrCNhJopZUeaJadMQMjvRydXbqCIo36yyp7w-osOtltDo7WefR4wtu~7aMv7MaS1cflDt~~rUv4Bi0go5G3pTnLry8hc6MLxOQQjinw5aJXtgqQpzbJGFRHZw54jQsjw2DlXnDyzWrgnZ2ii6QpBaK8N6iFRLInpia3zNhKNHfNPbW7nMb01gw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="한국",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
@@ -227,16 +226,11 @@ https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
 https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC5000019FB" tvg-id="KRBC5000019FB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20230926T013822SQUARE.png_20230926013824.png" tvg-chno="834" group-title="예능" , JTBC 최강야구
 https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
-#EXTINF:-1 channel-id="samsung-KRBC5000018O9" tvg-id="KRBC5000018O9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" tvg-chno="839" group-title="예능" , JTBC 골프
-https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8
-#EXTINF:-1 channel-id="samsung-KRBD1900001Y2" tvg-id="KRBD1900001Y2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1900001Y2_20230712T012345SQUARE.png_20230712012346.png" tvg-chno="840" group-title="예능" , FIFA+
-https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC4400003SD" tvg-id="KRBC4400003SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400003SD_20230726T002359SQUARE.png_20230726002400.png" tvg-chno="842" group-title="예능" , KBS 김과장
 https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="예능" , KBS 개는 훌륭하다
 https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20230809T021233SQUARE.png_20230809021234.png" tvg-chno="845" group-title="예능" , 씨네21+
 https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
-
 #EXTINF:-1 channel-id="samsung-KRBC3200004D1" tvg-id="KRBC3200004D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20220824T112713SQUARE.png_20220824112714.png" tvg-chno="701" group-title="영화" , 영화 채널
 https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
