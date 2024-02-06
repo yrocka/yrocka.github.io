@@ -342,31 +342,6 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml.gz"
-#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="Live",KBS1
-https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS.kr" tvg-name="KOR: SBS HD" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/sbs_kr.png" group-title="Live",SBS HD
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/348521.ts
-#EXTINF:-1 tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.png" group-title="Live",KBS2
-https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
-#EXTINF:-1 tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.png" group-title="Live",KBS2
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/16359.ts
-#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="Live",KBS World
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/394209.ts
-#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="Live",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="Live",MBC
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/16352.ts
-#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="Live",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="Live",MBC
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YTN" tvg-name="YTN Korean LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/EBS_1TV_Logo.png" group-title="Live",YTN Korean LIVE
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/16362.ts
-#EXTINF:-1 tvg-id="MTN" tvg-name="MTN" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/mtn_kr.png" group-title="Live",MTN
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/16360.ts
-#EXTINF:-1 tvg-id="YTN" tvg-name="TVN TV" tvg-logo="http://glmtv.pw/logo/prestige/South-Korea/tvn_kr_o.png" group-title="Live",TVN
-http://mag.qqtv.bz:8080/live/seb_william@hotmail.com/1947944/16353.ts
-
 #EXTINF:-1 channel-id="samsung-KRBB500034DY" tvg-id="KRBB500034DY" tvg-chno="501" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBB500034DY_20220824T111806.png" group-title="엔터테인먼트",어서와 한국은 처음이지?
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=every1%EC%96%B4%EC%84%9C%EC%99%80%ED%95%9C%EA%B5%AD%EC%9D%80%EC%B2%98%EC%9D%8C%EC%9D%B4%EC%A7%80&channel_id=newid_051&apikey=b97c7a7d0c82424bb607e141ef215779&auth=7084db2c-f0e83132-b6b83cac-2a5b2b04&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-KRBC32000191N" tvg-id="KRBC32000191N" tvg-chno="502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC32000191N_20220824T022436.png" group-title="엔터테인먼트",Mnet 스트릿 우먼 파이터
