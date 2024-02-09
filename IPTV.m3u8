@@ -7,15 +7,11 @@ http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/inde
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+https://epg.pw/stream/312161e735b97af4f73d44eebae6f624183b7f2ce71c479dc58fd74196e34399.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
-https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
-http://124.234.172.107:9901/tsfile/live/0132_1.m3u8?url=tvzb.com
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
-https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
+https://epg.pw/stream/7278e895e1e512f548f3fd2c2e503a83f6946006f1aba27c986e95fd5960f592.m3u8
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -27,9 +23,9 @@ https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
-https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+https://1tv-subtitle.gscdn.kbs.co.kr/1tv-subtitle-01/1tv-subtitle-01_sd.m3u8?Expires=1707617386&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYtc3VidGl0bGUuZ3NjZG4ua2JzLmNvLmtyLzF0di1zdWJ0aXRsZS0wMS8xdHYtc3VidGl0bGUtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcwNzYxNzM4Nn19fV19&Signature=Z8JvLpTRi2pys08f3GvMsLN35CtI~8cnYMSELNPShwzoIVStu~4ESmcLtpbI6aq6rALLzQl4vj0Kx9ZTsnj47et0ODxH2F7fEqRPjAPLjohqnnTg4vwWEIXWKSrXBwfQEMybhRMITpM9aj4Vq~gVI1jwVZmAMabYsQI7-leBEnBm1w98BbPLR~kb4y3tjzFM4dbfLFbcI-HHO8r7WZVPPCOp45iHBRxDjcNtdP3sG9fB4exTOXNXvxC9FC34qkIZS0IJ0QVkCwwpoB9bbDlo~eFT716ofk-ECYH3c~WRKI4zBFlqn~1wj9JSN-mmxJCy18T8T6CMHbGwmW4ZGDW8yQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1705752242&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDU3NTIyNDJ9fX1dfQ__&Signature=VL-g1H5ciM6Q80ExgFPkP8UPNjuWHPGJ0LLNmgyorfDzsLbZ9CMrraLumBuq4z-plQxGsN3sVNRVsR0mrc~cGQy2Vh6ZERFXmW20St1Br7E4MGs6HAlJtFQ-6XzwWZqKCMhEb8Cy385tctR7wiaxCXQyOecCKFUbYrCNhJopZUeaJadMQMjvRydXbqCIo36yyp7w-osOtltDo7WefR4wtu~7aMv7MaS1cflDt~~rUv4Bi0go5G3pTnLry8hc6MLxOQQjinw5aJXtgqQpzbJGFRHZw54jQsjw2DlXnDyzWrgnZ2ii6QpBaK8N6iFRLInpia3zNhKNHfNPbW7nMb01gw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1707617334&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDc2MTczMzR9fX1dfQ__&Signature=Hh96jmlOjtBI0QhF~go5EupD8v1al5IV6vnALoBQ0o-DUxVehVwRdAdmhM6SCeR-JF3ZFBHvzExRhVrYC45IyJTo3RBQuW-JpcVD6O-IFovSFDl5htcwNlHNv-Jm-pJA0CqsNsJwvbJdcOlFttHjIY8zoO2xCgVw1W~3Sk1zCMYwowFcCxIFjuEK~Mjxb9z3O8rk5x-w-Y3Tm1LnV2N6KD1g5aAQHTJD53o3~UJIXXuw1-D2Jw0CLJMpVgx4zWlyBkIAvUGEjM5XBEK89OfnsxZ-eFo7hGCnQ1hb0G45T~4eEKi1QEGh2RM1Y677qLx4j7BfQgwmBoKgNHMReL-ylQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="한국",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
