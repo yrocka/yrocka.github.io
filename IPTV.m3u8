@@ -29,6 +29,8 @@ http://mytv.dothome.co.kr/ch/catv/54.php
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+#EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" tvg-chno="502" group-title="한국" , YTN
+https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1707798310&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDc3OTgzMTB9fX1dfQ__&Signature=dV9ZqlQFp3LABoAp3pRFoHOUiTSBlARExL45MFfw5ZaJhvX~E56EE1wKu0Si7CK1oG3yVWRXoLkgSFhxXQE8wa7OLgxANUe~Omh0aU-nYfCF-O0D-zQAh6-3Vb0rby-zoLxYX9hA0vl2NtiVw~X1wzHxUn~A2J0TJfl~tW8SaRZh-KyW4-GbCNhRodLYEnINl-UChqd44ck1Eukiz~r2oowSqoEDwSxtwG0laGX4cIcH2KQTvumumtLYIjlcHbJWL2k1biM3Lp8u7s30Ikp0grOvY68CR~Gc1S5djE7T0P4ORfHcx5DMtiTE5Ccb16xkPHyeJcqEpZhul5xSzNR1~Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
