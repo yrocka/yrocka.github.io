@@ -245,9 +245,6 @@ https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8|user-agent=okhttp/4.10.0
 #EXTINF:-1 channel-id="samsung-KRBB5000070U4" tvg-id="KRBB5000070U4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20240117T032323SQUARE.png_20240117032324.png" tvg-chno="621" group-title="TV 시리즈" , MBC 옛드
 https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8|user-agent=okhttp/4.10.0
 
-#EXTINF:-1 channel-id="samsung-KRBD2000001BN" tvg-id="KRBD2000001BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2000001BN_20230809T021510SQUARE.png_20230809021511.png" tvg-chno="622" group-title="어린이" , 뽀요TV
-https://i.mjh.nz/SamsungTVPlus/KRBD2000001BN.m3u8|user-agent=okhttp/4.10.0
-
 #EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="엔터테인먼트" , MBC 안싸우면 다행이야
 https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8|user-agent=okhttp/4.10.0
 
@@ -319,8 +316,6 @@ https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 channel-id="samsung-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" tvg-chno="731" group-title="엔터테인먼트" , OGN 스타리그
 https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8|user-agent=okhttp/4.10.0
-
-
 
 #EXTINF:-1 channel-id="samsung-KRBC4400001TZ" tvg-id="KRBC4400001TZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20230726T002357SQUARE.png_20230726002358.png" tvg-chno="843" group-title="엔터테인먼트" , KBS 개는 훌륭하다
 https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8|user-agent=okhttp/4.10.0
