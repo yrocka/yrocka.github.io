@@ -17,13 +17,12 @@ http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
 https://epg.pw/stream/7278e895e1e512f548f3fd2c2e503a83f6946006f1aba27c986e95fd5960f592.m3u8
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
-#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",TV조선2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="한국" , 연합뉴스TV
-https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
+#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 고하질
+http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
@@ -42,6 +41,8 @@ http://mytv.dothome.co.kr/ch/catv/5.php
 http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.png" group-title="한국",KBS 뉴스24
 http://mytv.dothome.co.kr/ch/catv/1.php
+#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" tvg-chno="501" group-title="한국" , 연합뉴스TV
+https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 #EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC
@@ -56,7 +57,7 @@ http://mytv.dothome.co.kr/ch/catv/261.php
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://yrocka.github.io/icon/KCTV.jpeg" group-title="한국",KCTV 광주 
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS
+#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 저화질
 http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 #EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS CJB
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
