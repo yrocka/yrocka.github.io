@@ -25,18 +25,18 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 고화질
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 
-#EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1707824223&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDc4MjQyMjN9fX1dfQ__&Signature=JQRJuoCpvSrzzDcOQMeSXtwzfiqCmWKMoHzWk0TE44kgDhz1xwLTzygX7NsUouFfEkrbcgSd6epuOn-YH-cFcpZ643Cj0YvbuoFPrncz4dpG~KhrPiNoqceMNEODZspNWnk-TwXEmfG3sHcScmtKtEHAbhovHVXeJIwVAuS0s6zp8oqoLmt92x04bo7~6U7-QZ4RnwH7No-DSmOanpo7J-pQ9xvQciD9nM4bDMf0rDVaqeWutlo5YAzjNXUN~XW5L7TB2sac0jQ-52J6Q5RxIi-Wf24rDdyL0igG2JTO0EoojufxKBnSoDDh0uuLUctq~35COo1YRZShDDEsdttPKw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1707824198&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDc4MjQxOTh9fX1dfQ__&Signature=b~4bP4uJ321O5E2E6JMm97qevFErMhtSlmSTUzlUgnllGvZ7mrx3YhLvZu6Fq6-EclBgGOOcHHENS5XZjIz9fRDlZRd0pvf4idHLVG0trTzhq-yyN2PWb5afqyyWYH94V6q7JkwgsfOrEKEelQS3iJcC7RdWoprCwvyD5XRRs2TNJ32IdeEbN7iWOCODjrSOL3zIzVafcBPue8wb~4aGTICGTKQFlSiHgGzozXDY0J5yAWafIF2FvlzauNv8SnpxqWfm9kXT2k~1BDrWgnG7cMpbXTZpBoGix50efFhXjFcB~ocbiW0nEPT7db9etqpliM~cZaU1FDyrEU-zbaZbQg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1707888089&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDc4ODgwODl9fX1dfQ__&Signature=UE0c7RimdM2dMEXZ5plznpCUbQ~j0I4w5~XJdVs5CdtG9~SJ1jtpcne2YcGCNv53SDyy06xUoYR7S2YbSeuBXZtUahofrLYkxnKGGMqvHM5DOxJhZ5eFiSom2Ov0l72bLPFiPrPRzcCFOd9nyqwQnIfXH9i8QV6cOk7LX52DoenKaRZ65PlQC0pIBoEFA6epIkoL91ccyVBoxfkLB8c12mycPH6acNG2kYVCNveqC4gfP9A7xLarM-FdKtyWyG~pvcetdbeBaragGJ-Ro1fUysLphqHfFNO7K4mdqOvFoPHhR9WyyfcEbOnOg9tL3gjcqcaOcSWAoITCsdrN-aESEA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1707888135&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDc4ODgxMzV9fX1dfQ__&Signature=UOZtfHK6NsQeLhYr5y8sCuEbX1ekfyQhLHZO1LBTdZ~uNHFM5uH2O2g7Z~9E-Yo8Du9c~H1Mp-Em3qWPHF0eY2DHpgCvJ4OWCuU1NQXfFGffRPFuoKSpcl3P1795uDnxF9i5Idr8zDNynSd69Pq1ouDH2TJKb4XvHwB-BoIgw1F8APsarQOxcxBlcjKa~fygZon4-vx2CoSFp7ORba4m2NziLNbyGAftlgcyiGGceGPhC4ixE-7Zgx0KfC-ebkX1nSs2W5~g3cf17VBTUJBXqu~-6MlnHpz1JQbEdR1meEVZBbtVQfLDwvTsZb8pVGPyh107nXOjPBRx2iMFgiaemA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="한국",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.png" group-title="한국",KBS 뉴스24
 http://mytv.dothome.co.kr/ch/catv/1.php
 
-#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="한국",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://yrocka.github.io/icon/KBSDrama.jpeg" group-title="한국",KBS 드라마
