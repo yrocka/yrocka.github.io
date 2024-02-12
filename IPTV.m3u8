@@ -25,7 +25,6 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 고화질
 http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1707824223&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MDc4MjQyMjN9fX1dfQ__&Signature=JQRJuoCpvSrzzDcOQMeSXtwzfiqCmWKMoHzWk0TE44kgDhz1xwLTzygX7NsUouFfEkrbcgSd6epuOn-YH-cFcpZ643Cj0YvbuoFPrncz4dpG~KhrPiNoqceMNEODZspNWnk-TwXEmfG3sHcScmtKtEHAbhovHVXeJIwVAuS0s6zp8oqoLmt92x04bo7~6U7-QZ4RnwH7No-DSmOanpo7J-pQ9xvQciD9nM4bDMf0rDVaqeWutlo5YAzjNXUN~XW5L7TB2sac0jQ-52J6Q5RxIi-Wf24rDdyL0igG2JTO0EoojufxKBnSoDDh0uuLUctq~35COo1YRZShDDEsdttPKw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
