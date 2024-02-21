@@ -1,27 +1,17 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1
 http://mtw.so/5UqsjP
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1 备用
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2
 http://mtw.so/69sStd
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2 备用
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV3.png" group-title="中国",CCTV-3
 http://mtw.so/6gZ5xU
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4
 http://mtw.so/6oviAZ
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4 备用
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4K.png" group-title="中国",CCTV-4K 高清
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5
 http://mtw.so/5x7cQz
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5 备用
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13
 http://mtw.so/5x7cQJ
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13 备用
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="中国",CCTV6
 http://mtw.so/5EDpF8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="中国",CCTV7
