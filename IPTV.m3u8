@@ -1,15 +1,11 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4K.png" group-title="中国",CCTV-4K 高清
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13
-https://epg.pw/stream/312161e735b97af4f73d44eebae6f624183b7f2ce71c479dc58fd74196e34399.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
