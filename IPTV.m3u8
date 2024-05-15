@@ -1,58 +1,19 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://yrocka.github.io/icon/CCTV1.png" group-title="中国",CCTV-1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://yrocka.github.io/icon/CCTV2.png" group-title="中国",CCTV-2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4.png" group-title="中国",CCTV-4
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://yrocka.github.io/icon/CCTV4K.png" group-title="中国",CCTV-4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://yrocka.github.io/icon/CCTV5.png" group-title="中国",CCTV-5
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://yrocka.github.io/icon/diyicaijing.jpeg" group-title="中国",第一财经
 http://222.71.90.218:8888/newlive/live/hls/57/live.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",湖北卫视
 https://epg.pw/stream/7278e895e1e512f548f3fd2c2e503a83f6946006f1aba27c986e95fd5960f592.m3u8
-
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影1
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影2
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影3
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影4
-http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影5
-http://epg.112114.xyz/douyu/52787
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影6
-http://epg.112114.xyz/douyu/36337
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影7
-http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影8
-http://epg.112114.xyz/douyu/263824
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影9
-http://epg.112114.xyz/douyu/323876
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影10
-http://epg.112114.xyz/douyu/2516864
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影11
-http://epg.112114.xyz/douyu/413573
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影12
-http://epg.112114.xyz/douyu/218859
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影13
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影14
-http://epg.112114.xyz/douyu/2793084
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影15
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影16
-http://epg.112114.xyz/douyu/6566671
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影17
-http://epg.112114.xyz/douyu/1226741
-#EXTINF:-1 tvg-id="电影" tvg-name="电影" tvg-logo="https://yrocka.github.io/icon/hubeiweishi.jpeg" group-title="中国",电影18
-http://epg.112114.xyz/douyu/252802
 
 
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
