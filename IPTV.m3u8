@@ -34,11 +34,12 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",TV조선2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 고화질
-http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
 
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 고화질
+http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1720917309&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjA5MTczMDl9fX1dfQ__&Signature=aolR1vqBnqkU24NYo2-YHTKfwl-JkSJ9z1KBmF0FjSAyUHZQ6ZnR4EyWrJe2Oo2vPqSgC5ecupLyW4s8K1W-wyAjPdJe7xXNJMZXHqKfAx8uozHsjOMK6m5R~DIHht~vZv4T~W6ldYchOZ5DdSpMMCp1RxUts59Of8Q~9jx-fCFftc1miltFVdn0lcbVCsekhsaMJrjd6c6eYHfQB-0tnxN-TFCnlnvF1Lgf0KXhzhB9O0JaiVPiZztTzNZK-UVFf9N~yrja~jF4gVVkpK-ACfed3YfyJrc5Pp0WJWN4mS9bFgFkKmMdEc0gqynJyigv07Oa1SLhrmVCqj6itR459A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
