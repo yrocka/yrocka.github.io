@@ -48,7 +48,8 @@ https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1720917301&Policy=eyJTdGF0ZW1lbnQ
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.png" group-title="한국",KBS 뉴스24
 http://mytv.dothome.co.kr/ch/catv/1.php
-
+#EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
+http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://yrocka.github.io/icon/KBSDrama.jpeg" group-title="한국",KBS 드라마
