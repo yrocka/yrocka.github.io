@@ -35,7 +35,9 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="中国",MMBBNN
+#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",MMBBNN
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",MMBBNN2
 https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
 
 #EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 고화질
@@ -55,7 +57,8 @@ http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://yrocka.github.io/icon/KBSDrama.jpeg" group-title="한국",KBS 드라마
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-id="KBSLife" tvg-name="KBSLife" tvg-logo="https://yrocka.github.io/icon/KBSLIFE.png" group-title="한국",KBS 생활
-http://mytv.dothome.co.kr/ch/catv/5.php
+
+
 #EXTINF:-1 tvg-id="KBSStory" tvg-name="KBSStory"" tvg-logo="https://yrocka.github.io/icon/KBSStory.png" group-title="한국",KBS 이야기
 http://mytv.dothome.co.kr/ch/catv/4.php
 
