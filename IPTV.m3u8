@@ -13,16 +13,13 @@ http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://yrocka.github.io/icon/CCTV13.png" group-title="中国",CCTV-13
 http://116.162.6.192/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225510/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",TV조선2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",MBN
+#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
 https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1722745350&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjI3NDUzNTB9fX1dfQ__&Signature=JZU9dlnVmuOXYdRFFlxxvUx6Nrqhvwp0PaWmM-Oj57Z3L8U4R3qeyPR3DGydlfZpFYYVA6LQ3WlIxK0eMrgP5~SYJCsxQ3HcqLYsejsDpFdLVP~SfKpLLAKLs3stJ2wCSkR~oNobkPHPu3zvLzWB666khYkyEsNJ24oC5NzCeG6Mb6qWwZBu9VUHplQrdVofHl171Pm0pf6AgcG3fd-GR-dV1cOw5-4ZoFeLL~BNbK3wvHOfaDZiLXbhI29WqtO~AogFZfqXaDMSzaROn4G8tpBsdPNiMPEDsnjFAObuP62SJRWAXaCuf~yDwM5-NGLcqOYGI4xIl-l0pKgryhZT0g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
