@@ -152,52 +152,114 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="•卫视「IPV6」",湖南卫视「IPV6」
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="地方卫视",湖南卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="•卫视「IPV6」",浙江卫视「IPV6」
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="地方卫视",浙江卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="•卫视「IPV6」",江苏卫视「IPV6」
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="地方卫视",江苏卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="•卫视「IPV6」",东方卫视「IPV6」
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="地方卫视",东方卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="•卫视「IPV6」",广东卫视「IPV6」
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="地方卫视",广东卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="•卫视「IPV6」",广西卫视「IPV6」
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="地方卫视",广西卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="•卫视「IPV6」",深圳卫视「IPV6」
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="地方卫视",深圳卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="•卫视「IPV6」",北京卫视「IPV6」
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="地方卫视",北京卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="•卫视「IPV6」",东南卫视「IPV6」
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="地方卫视",东南卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="•卫视「IPV6」",四川卫视「IPV6」
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="地方卫视",四川卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="•卫视「IPV6」",天津卫视「IPV6」
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="地方卫视",天津卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="•卫视「IPV6」",安徽卫视「IPV6」
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="地方卫视",安徽卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="•卫视「IPV6」",山东卫视「IPV6」
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="地方卫视",山东卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="•卫视「IPV6」",江西卫视「IPV6」
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="地方卫视",江西卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="•卫视「IPV6」",河北卫视「IPV6」
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="地方卫视",河北卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="•卫视「IPV6」",河南卫视「IPV6」
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="地方卫视",河南卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="•卫视「IPV6」",海南卫视「IPV6」
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="地方卫视",海南卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="•卫视「IPV6」",湖北卫视「IPV6」
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="地方卫视",湖北卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="•卫视「IPV6」",贵州卫视「IPV6」
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="地方卫视",贵州卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="•卫视「IPV6」",辽宁卫视「IPV6
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="地方卫视",辽宁卫视「IPV6
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="•卫视「IPV6」",重庆卫视「IPV6」
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="地方卫视",重庆卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="•卫视「IPV6」",吉林卫视「IPV6」
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="地方卫视",吉林卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="•卫视「IPV6」",黑龙江卫视「IPV6」
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="地方卫视",黑龙江卫视「IPV6」
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",TV조선2
+#EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
+http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
+http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png" group-title="한국",KBS1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1722827637&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjI4Mjc2Mzd9fX1dfQ__&Signature=XzZEIWI0gK5-io2rXq0GFkB7LE8boNzCWtEYroV1kCKaDGWn8~Ki1wUHSKirErhb9FnqyT3kElkq96a4H50Z9c3-Onjx7Azq8TLRtPAbVSbXHFeDzaDcZ0et-ujJm7sngkIrCu9gBu7Z4rYEp3JUlQrC5xhIv7lWCbNSyjJqSD4m6~CtzGlCtTJ--lHnsbEzTEH1OtpMIA-~OoVebC7W1QlDuW3hUWuEx5ru8oAvgD7W7dgrYdXBRLR7TT9BgnAGIlQ6FTvFMFFHMa0SwMBGKOUTRtMEnyDfHT1UVJo3puFudzMdO04OsF0cEcBrbiAR8pOok14BWGM~yVvlQT7rOg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBS2" tvg-name="KBS2" tvg-logo="https://yrocka.github.io/icon/KBS2.jpg" group-title="한국",KBS2 
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1722827609&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjI4Mjc2MDl9fX1dfQ__&Signature=jmLinQTwxGn4ukUMR4UDtHzQVEe0txlAd-kMDdYemVBbn3ShxYuGpBPhg7Znp39kEZG0VMy-DS8TCXairGptw35Krhr8OmXcZfUtspmjvSdHTbv5WPqoOfBpg8eC1fCTLVbXOMYFfYYWwo-Z14tkWrvJmR4VMoGGgdYPmV2eXeFbyiP1ENYLAAJEMNBr4gLquam9AfpCFd0FqdxvfpFDi8nM4WNgZjZw6vRrlWVIC1D62EHOLE~FzR1nA76oqhAR9aSwWRnRo0YSMT2LoOV0-ljhTcmYcU248Z4KsAP~XTcI2caowPOgG0B6r3bugbx35vYm8ooLYHwVatdMJT6TdQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="한국",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.png" group-title="한국",KBS 뉴스24
+http://mytv.dothome.co.kr/ch/catv/1.php
+
+#EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://yrocka.github.io/icon/KBSDrama.jpeg" group-title="한국",KBS 드라마
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSLife" tvg-name="KBSLife" tvg-logo="https://yrocka.github.io/icon/KBSLIFE.png" group-title="한국",KBS 생활
+
+
+#EXTINF:-1 tvg-id="KBSStory" tvg-name="KBSStory"" tvg-logo="https://yrocka.github.io/icon/KBSStory.png" group-title="한국",KBS 이야기
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 channel-id="samsung-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="한국" , 연합뉴스TV
+https://jmp2.uk/SamsungTVPlus/KRBD1400001ED.m3u8
+
+#EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" group-title="한국" , YTN
+https://jmp2.uk/SamsungTVPlus/KRBD2400001XD.m3u8
+
+#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 고화질
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 저화질
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 여수
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="NBS Korea" tvg-name="NBS Korea" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS Korea
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="JCN TV" tvg-name="JCN TV" tvg-logo="https://yrocka.github.io/icon/JCN.jpeg" group-title="한국",JCN TV
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://yrocka.github.io/icon/KCTV.jpeg" group-title="한국",KCTV 광주 
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 저화질
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS KNN
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS TJB
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/30187.jp2" group-title="한국",국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",RNA
+http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml.gz"
