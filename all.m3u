@@ -175,12 +175,7 @@ https://jmp2.uk/SamsungTVPlus/KRBD1400001ED.m3u8
 #EXTINF:-1 channel-id="samsung-KRBD2400001XD" tvg-id="KRBD2400001XD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2400001XD_20231025T004703SQUARE.png_20231025004705.png" group-title="한국" , YTN
 https://jmp2.uk/SamsungTVPlus/KRBD2400001XD.m3u8
 
-#EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 고화질
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 저화질
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1,tvg-id="MBC Korea2" tvg-name="MBC Korea2" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC 여수
-https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="NBS Korea" tvg-name="NBS Korea" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS Korea
@@ -189,14 +184,6 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://yrocka.github.io/icon/KCTV.jpeg" group-title="한국",KCTV 광주 
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 저화질
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS CJB
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS KNN
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.png" group-title="한국",SBS TJB
-http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/30187.jp2" group-title="한국",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",RNA
@@ -204,7 +191,7 @@ http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC
 http://stream.cvmtv.site/MBC?token=live
-##http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC Andong
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC Busan
@@ -223,8 +210,9 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC Yeosu
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1920px-Seoul_Broadcasting_System_logo.svg.png", SBS
-##http://gg.gg/SBSKOR
+http://gg.gg/SBSKOR
 http://stream.cvmtv.site/SBS?token=live
 #EXTINF:-1 group-title="한국" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko", CJB SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
@@ -240,6 +228,56 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", G1 SBS
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="SBS" tvg-name="SBS" tvg-logo="https://yrocka.github.io/icon/SBS.jpeg" group-title="한국",SBS 저화질
+http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="한국" ch-number="392" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/161_144.png",392 KBS World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
+
+#EXTINF:-1 tvg-id="한국" ch-number="393" group-title="Korean" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png",393 ONE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
+
+#EXTINF:-1 tvg-id="한국" ch-number="395" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1001/default_primary.mpd
+
+#EXTINF:-1 tvg-id="한국" ch-number="396" group-title="Korean" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",396 KPlus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default_primary.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTINF:-1 group-title="한국" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cjenm.png", CJ ENM
+https://tinyurl.com/TiviMe-CJENM
+
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
+http://stream.cvmtv.site/KBS1?token=live
+https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daejeon
+https://code.vthanhtivi.pw/getlink/kbs/60_11/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Gwangju
+https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Daegu
+https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Ulsan
+https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1 Busan
+https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", KBS2
+http://stream.cvmtv.site/KBS2?token=live
+https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg/2560px-%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg.png", KBS News D
+https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml.gz"
