@@ -539,8 +539,12 @@ https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://live.fanmingming.com/tv/ESPNNEWS.png" group-title="Sports",ESPN News
-http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1 tvg-id="SNY" tvg-name="SNY" group-title="Sports",SNY
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
+#EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="NBA" group-title="Sports"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA TV HDTV
+http://41.205.93.154:80/NBA/index.m3u8
+#EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="NBA" group-title="Sports"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA TV HDTV
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 
 #EXTINF:-1 channel-id="samsung-KRBC3200011N3" tvg-id="KRBC3200011N3" tvg-chno="752" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/KRBC3200011N3_20220824T112723.png" group-title="Sports",빌리어즈TV 레전드
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%B9%8C%EB%A6%AC%EC%96%B4%EC%A6%88tv%EB%A0%88%EC%A0%84%EB%93%9C&channel_id=newid_027&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8d76450f-b948e49a-8b1249a3-63fbfeac&ads.device_did=%7BPSID%7D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app.name=%7BAPP_NAME%7D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D
