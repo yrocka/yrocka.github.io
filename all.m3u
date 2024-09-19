@@ -158,7 +158,7 @@ http://mytv.dothome.co.kr/ch/public/1.php
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1,tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://yrocka.github.io/icon/KBSWORLD.png" group-title="한국",KBS World
 http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24"" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.png" group-title="한국",KBS 뉴스24
+#EXTINF:-1 tvg-id="NEWS24" tvg-name="NEWS24" tvg-logo="https://yrocka.github.io/icon/KBSNEWS.png" group-title="한국",KBS 뉴스24
 http://mytv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 tvg-id="KBSJoy" tvg-name="KBSJoy" tvg-logo="https://yrocka.github.io/icon/KBSJOY.png" group-title="한국",KBS 오락
 http://mytv.dothome.co.kr/ch/catv/3.php
@@ -167,9 +167,8 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-id="KBSLife" tvg-name="KBSLife" tvg-logo="https://yrocka.github.io/icon/KBSLIFE.png" group-title="한국",KBS 생활
 
 
-#EXTINF:-1 tvg-id="KBSStory" tvg-name="KBSStory"" tvg-logo="https://yrocka.github.io/icon/KBSStory.png" group-title="한국",KBS 이야기
+#EXTINF:-1 tvg-id="KBSStory" tvg-name="KBSStory" tvg-logo="https://yrocka.github.io/icon/KBSStory.png" group-title="한국",KBS 스토리
 http://mytv.dothome.co.kr/ch/catv/4.php
-
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="NBS Korea" tvg-name="NBS Korea" tvg-logo="https://yrocka.github.io/icon/NBS.jpeg" group-title="한국",NBS Korea
@@ -178,9 +177,9 @@ https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 #EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" tvg-logo="https://yrocka.github.io/icon/KCTV.jpeg" group-title="한국",KCTV 광주 
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/30187.jp2" group-title="한국",국악방송
+#EXTINF:-1,tvg-id="GABS" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/30187.jp2" group-title="한국",국악방송
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1,tvg-id="MBN" tvg-name="MBN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",RNA
+#EXTINF:-1,tvg-id="RNA" tvg-name="RNA" group-title="한국",RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
 #EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC
@@ -211,6 +210,8 @@ http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", G1 SBS
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",ArirangTV FHD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
 #EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="예능" , MBC 안싸우면 다행이야
@@ -409,8 +410,6 @@ https://jmp2.uk/sam-KR7000023Z.m3u8
 https://jmp2.uk/sam-KRBC4400001TZ.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBC4400002AO" tvg-id="KRBC4400002AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20240911T021421SQUARE.png" group-title="드라마" tvg-chno="510",KBS 태양의 후예
 https://jmp2.uk/sam-KRBC4400002AO.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-KR120000391" tvg-id="KR120000391" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR120000391_20240910T013918SQUARE.png" group-title="어린이" tvg-chno="530",Kids time
-https://jmp2.uk/sam-KR120000391.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBC3200023BG" tvg-id="KRBC3200023BG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200023BG_20240904T011522SQUARE.png" group-title="음악" tvg-chno="539",M2
 https://jmp2.uk/sam-KRBC3200023BG.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBB500037T3" tvg-id="KRBB500037T3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20230809T021259SQUARE.png_20230809021300.png" group-title="드라마" tvg-chno="627",MBC every1 별순검
@@ -439,8 +438,6 @@ https://jmp2.uk/sam-KRBC3500018J9.m3u8
 https://jmp2.uk/sam-KRBC3200018FU.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR2400001TI" tvg-id="KR2400001TI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2400001TI_20240717T025946SQUARE.png" group-title="예능" tvg-chno="904",Mr. Bean
 https://jmp2.uk/sam-KR2400001TI.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-KRBC3200005SH" tvg-id="KRBC3200005SH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200005SH_20230809T021235SQUARE.png_20230809021236.png" group-title="기술/게임/과학" tvg-chno="731",OGN 스타리그
-https://jmp2.uk/sam-KRBC3200005SH.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBD3100007WB" tvg-id="KRBD3100007WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100007WB_20240508T020816SQUARE.png" group-title="스포츠" tvg-chno="984",PGA Tour
 https://jmp2.uk/sam-KRBD3100007WB.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR12000017G" tvg-id="KR12000017G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20240911T003425SQUARE.png" group-title="영화" tvg-chno="846",PLAYY 영화
@@ -507,12 +504,8 @@ https://jmp2.uk/sam-KRBC3500014ZH.m3u8
 https://jmp2.uk/sam-KRBD3100006X4.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBC3500015BN" tvg-id="KRBC3500015BN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500015BN_20231025T004635SQUARE.png_20231025004636.png" group-title="드라마" tvg-chno="614",도라마코리아
 https://jmp2.uk/sam-KRBC3500015BN.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-KRBC3500013VH" tvg-id="KRBC3500013VH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20231025T004639SQUARE.png_20231025004640.png" group-title="어린이" tvg-chno="642",로보카폴리 TV
-https://jmp2.uk/sam-KRBC3500013VH.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR2900001RN" tvg-id="KR2900001RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900001RN_20240731T012314SQUARE.png" group-title="예능" tvg-chno="707",바오패밀리
 https://jmp2.uk/sam-KR2900001RN.m3u8
-#EXTINF:-1 channel-id="SamsungTVPlus-KR900001U5" tvg-id="KR900001U5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR900001U5_20240813T022314SQUARE.png" group-title="어린이" tvg-chno="622",뽀요TV
-https://jmp2.uk/sam-KR900001U5.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR7000044K" tvg-id="KR7000044K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20240404T033805SQUARE.png" group-title="뉴스" tvg-chno="519",서울경제TV
 https://jmp2.uk/sam-KR7000044K.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20240131T031212SQUARE.png_20240131031213.png" group-title="영화" tvg-chno="845",씨네21+
@@ -530,9 +523,6 @@ https://jmp2.uk/sam-KRBB5000364M.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR3200003RR" tvg-id="KR3200003RR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20240913T023512SQUARE.png" group-title="예능" tvg-chno="504",코난 오브라이언 쇼
 https://jmp2.uk/sam-KR3200003RR.m3u8
 
-
-#EXTINF:-1 group-title="International" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",ArirangTV FHD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="International",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="International",半岛新闻
