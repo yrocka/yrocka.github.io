@@ -181,6 +181,8 @@ http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1,tvg-id="RNA" tvg-name="RNA" group-title="한국",RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+#EXTINF:-1 group-title="한국" tvg-logo="http://jtv.co.kr/2021/image/common/logo.png",JTV
+https://jtvonair.sbsoft.net/jtv_live/myStream/chunklist_w1656783869.m3u8
 
 #EXTINF:-1,tvg-id="MBC Korea" tvg-name="MBC Korea" tvg-logo="https://yrocka.github.io/icon/MBC.png" group-title="한국",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
@@ -212,6 +214,10 @@ http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",ArirangTV FHD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="한국",중악방송
+https://tv.nknews.org/tvhls/stream.m3u8
+
+
 
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
 #EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="예능" , MBC 안싸우면 다행이야
