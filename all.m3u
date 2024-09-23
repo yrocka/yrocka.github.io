@@ -293,7 +293,7 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EC%8
 #EXTINF:-1 channel-id="samsung-KRBB4200008PR" tvg-id="KRBB4200008PR" tvg-chno="589" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/03/88/KRBB4200008PR_20220413T005111.png" group-title="예능",SBS 동상이몽2 - 너는 내 운명
 https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-KRBC200002I0" tvg-id="KRBC200002I0" tvg-chno="590" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/19/KRBC200002I0_20220329T055215.png" group-title="예능",MBC 나혼자산다
-https://eac87bb45c2e46899e246908dc319985.mediatailor.ap-northeast-1.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/9380a578-702a-468e-b8ed-6f1ace4c4d21/2.m3u8
+https://d3778iurtj3xv6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kg9gdipudll7l-prod/Channel_MBC_7.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-KRBB4200009C3" tvg-id="KRBB4200009C3" tvg-chno="591" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/02/KRBB4200009C3_20220413T005144.png" group-title="예능",SBS 집사부일체
 https://d2c6t9pg1qq2i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xk9ndm117p4tj-prod/hls-harvester2-1293-prod/us-east-1/cc-xk9ndm117p4tj/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-KRBC20000418" tvg-id="KRBC20000418" tvg-chno="592" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/KRBC20000418_20220511T002810.png" group-title="예능",MBC 라디오스타
@@ -507,7 +507,7 @@ https://jmp2.uk/sam-KRBC3500015BN.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR2900001RN" tvg-id="KR2900001RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900001RN_20240731T012314SQUARE.png" group-title="예능" tvg-chno="707",바오패밀리
 https://jmp2.uk/sam-KR2900001RN.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR7000044K" tvg-id="KR7000044K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20240404T033805SQUARE.png" group-title="뉴스" tvg-chno="519",서울경제TV
-https://3fceda0143c84c19a85d78fcdc2227b3.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-muet4ltb2qlh3/551c19a9-71fb-4acb-abf1-392223eb1128/0.m3u8
+https://jmp2.uk/sam-KR7000044K.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBD26000011V" tvg-id="KRBD26000011V" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20240131T031212SQUARE.png_20240131031213.png" group-title="영화" tvg-chno="845",씨네21+
 https://jmp2.uk/sam-KRBD26000011V.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KRBD1400001ED" tvg-id="KRBD1400001ED" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="뉴스" tvg-chno="501",연합뉴스TV
