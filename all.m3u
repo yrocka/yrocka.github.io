@@ -519,6 +519,16 @@ https://jmp2.uk/sam-KRBB5000364M.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR3200003RR" tvg-id="KR3200003RR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20240913T023512SQUARE.png" group-title="예능" tvg-chno="504",코난 오브라이언 쇼
 https://jmp2.uk/sam-KR3200003RR.m3u8
 
+
+#EXTINF:-1 group-title="International",NHK World
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1 group-title="International",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="International",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="International",CNA 2
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
+
 #EXTINF:-1 channel-id="samsung-KRBB500039Y5" tvg-id="KRBB500039Y5" tvg-chno="529" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/21/KRBB500039Y5_20220810T035039.png" group-title="International",Bloomberg TV+ UHD
 https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-KRBB500044GP" tvg-id="KRBB500044GP" tvg-chno="530" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/73/KRBB500044GP_20220329T055151.png" group-title="International",Bloomberg Quicktake
@@ -532,10 +542,6 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="International",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 group-title="International",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="International",CNA 2
-https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 #EXTINF:-1 group-title="International",CNN Fast
 https://i.mjh.nz/discovery-ptcn.m3u8
 #EXTINF:-1 group-title="International",CBC News
