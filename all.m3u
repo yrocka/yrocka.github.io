@@ -129,21 +129,21 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000320630/1.m3u8?chan
 #EXTINF:-1 tvg-name="动作电影" tvg-id="动作电影" tvg-logo="" group-title="数字", 动作电影
 http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8
 
-#EXTINF:-1 tvg-name="iHOT爱历史" tvg-id="iHOT爱历史" tvg-logo="https://epg.112114.xyz/logo/iHOT爱历史.png" group-title="数字频道", iHOT爱历史
+#EXTINF:-1 tvg-name="iHOT爱历史" tvg-id="iHOT爱历史" tvg-logo="https://epg.112114.xyz/logo/iHOT爱历史.png" group-title="数字", iHOT爱历史
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000150630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱青春" tvg-id="iHOT爱青春" tvg-logo="https://epg.112114.xyz/logo/iHOT爱青春.png" group-title="数字频道", iHOT爱青春
+#EXTINF:-1 tvg-name="iHOT爱青春" tvg-id="iHOT爱青春" tvg-logo="https://epg.112114.xyz/logo/iHOT爱青春.png" group-title="数字", iHOT爱青春
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000100630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-id="iHOT爱赛车" tvg-logo="https://epg.112114.xyz/logo/iHOT爱赛车.png" group-title="数字频道", iHOT爱赛车
+#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-id="iHOT爱赛车" tvg-logo="https://epg.112114.xyz/logo/iHOT爱赛车.png" group-title="数字", iHOT爱赛车
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000240630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-id="iHOT爱玩具" tvg-logo="https://epg.112114.xyz/logo/iHOT爱玩具.png" group-title="数字频道", iHOT爱玩具
+#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-id="iHOT爱玩具" tvg-logo="https://epg.112114.xyz/logo/iHOT爱玩具.png" group-title="数字", iHOT爱玩具
 http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000220630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHot风尚音乐" tvg-id="iHot风尚音乐" tvg-logo="https://epg.112114.xyz/logo/iHot风尚音乐.png" group-title="数字频道", iHot风尚音乐
+#EXTINF:-1 tvg-name="iHot风尚音乐" tvg-id="iHot风尚音乐" tvg-logo="https://epg.112114.xyz/logo/iHot风尚音乐.png" group-title="数字", iHot风尚音乐
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000004/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000004&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHot精品剧场" tvg-id="iHot精品剧场" tvg-logo="https://epg.112114.xyz/logo/iHot精品剧场.png" group-title="数字频道", iHot精品剧场
+#EXTINF:-1 tvg-name="iHot精品剧场" tvg-id="iHot精品剧场" tvg-logo="https://epg.112114.xyz/logo/iHot精品剧场.png" group-title="数字", iHot精品剧场
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000002/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHot欧美影院" tvg-id="iHot欧美影院" tvg-logo="https://epg.112114.xyz/logo/iHot欧美影院.png" group-title="数字频道", iHot欧美影院
+#EXTINF:-1 tvg-name="iHot欧美影院" tvg-id="iHot欧美影院" tvg-logo="https://epg.112114.xyz/logo/iHot欧美影院.png" group-title="数字", iHot欧美影院
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000005&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="iHot亚洲影院" tvg-id="iHot亚洲影院" tvg-logo="https://epg.112114.xyz/logo/iHot亚洲影院.png" group-title="数字频道", iHot亚洲影院
+#EXTINF:-1 tvg-name="iHot亚洲影院" tvg-id="iHot亚洲影院" tvg-logo="https://epg.112114.xyz/logo/iHot亚洲影院.png" group-title="数字", iHot亚洲影院
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3
 
 
