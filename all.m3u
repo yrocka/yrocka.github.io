@@ -280,6 +280,9 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 
 #EXTM3U url-tvg="https://kkgithub.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
+
+#EXTINF:-1 channel-id="samsung-KRBC1" tvg-id="KRBC1" tvg-chno="623" group-title="예능" , 한일톱탠쑈 2024년11월5일
+http://e2.dotoritv.com:8081/A/20241105/BWOHS01POTPAJROKNBM_20241105.mp4/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="예능" , MBC 안싸우면 다행이야
 https://jmp2.uk/sam-KRBC20000347.m3u8
 #EXTINF:-1 channel-id="SamsungTVPlus-KR700003L9" tvg-id="KR700003L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700003L9_20240904T011518SQUARE.png" group-title="예능" tvg-chno="516",KBS 불후의 명곡
