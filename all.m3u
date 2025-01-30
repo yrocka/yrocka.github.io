@@ -43,12 +43,6 @@ http://home.dzlove.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" tvg-logo="" group-title="央视",纯享4K
 http://home.dzlove.top:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视",CCTV4K
-http://148.135.93.213:81/live.php?id=CCTV4K-av3a
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视",CCTV16-4K
-http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" http-user-agent="cctv_app_tv" http-header="Uid=iHgVXkB772K5MjNo" group-title="央视",CCTV8K
-http://148.135.93.213:81/live.php?id=CCTV8K-av3a
 
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/315/202204010055_1626831001078_H169_1080.jpg" group-title="央视", CCTV4 欧洲
@@ -74,12 +68,6 @@ https://www.freetv.top/migu/708869532.m3u8?migutoken=6c81e13830a98cbed803f493e61
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/196/407/202204010052_1642124762081_H169_1080.jpg" group-title="央视", CGTN
 https://www.freetv.top/migu/609017205.m3u8?migutoken=51883270c84332bdb568be41e01a5e6611d504e9b3a6ff05904b71bd29db214444e25b6004975f0771f530c6f7ecd7f90674647b4a4efffdadc2d40055b9c1f68a74ca70ffbcca734e9e3782bc
 
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视",凤凰资讯
-http://148.135.93.213:81/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视",凤凰中文
-http://148.135.93.213:81/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视",凤凰香港
-http://148.135.93.213:81/phenix.php?id=fhhk
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/058/351/202106171938_5100043384_H169_1080.jpg" group-title="卫视", 东方卫视
 https://www.freetv.top/migu/651632648.m3u8?migutoken=e765bb663396911e0fa027f64c4378a4811b733586444461515451642f01e401c61987a7256405e562f272d4a45cf003c8974fd47f47765203988df87102570687a04fcdd402aa62918f1cad2f
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2202/428/795/202107191524_2202428795_H169_1080.jpg" group-title="卫视", 广东卫视
