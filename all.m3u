@@ -43,8 +43,9 @@ http://home.dzlove.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" tvg-logo="" group-title="央视",纯享4K
 http://home.dzlove.top:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-8K
-http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:35455/gaoma/cctv8k_36m.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-13
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:35455/gaoma/cctv13.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/315/202204010055_1626831001078_H169_1080.jpg" group-title="央视", CCTV4 欧洲
 https://www.freetv.top/migu/608807419.m3u8?migutoken=6a212f7bbb565d15fa1837af03bca5806c8d1522a2c9b34b1ed1c0f3cd23e6d7c4761bb6b35c9de97d923f603f557e6edb2ee11c80decc83bddea897b5c7ac59a7efea8e4796cbbfcf1b3fc93c
