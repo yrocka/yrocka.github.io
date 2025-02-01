@@ -43,9 +43,6 @@ http://home.dzlove.top:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac004018cec6a4046c41dd9f4fc2bf0d97a30aaddef8a88da0e984cf03e60fa6a6adcb81d784905e343fb6a9dae398827b1b71b5164b118d15f6762b07225d4764bce858c33
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" tvg-logo="" group-title="央视",纯享4K
 http://home.dzlove.top:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-13
-http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:35455/gaoma/cctv13.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/315/202204010055_1626831001078_H169_1080.jpg" group-title="央视", CCTV4 欧洲
 https://www.freetv.top/migu/608807419.m3u8?migutoken=6a212f7bbb565d15fa1837af03bca5806c8d1522a2c9b34b1ed1c0f3cd23e6d7c4761bb6b35c9de97d923f603f557e6edb2ee11c80decc83bddea897b5c7ac59a7efea8e4796cbbfcf1b3fc93c
@@ -752,4 +749,102 @@ https://d37qvay98eimbp.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u
 #EXTINF:-1 channel-id="samsung-USAJ3504545A" tvg-id="USAJ3504545A" tvg-chno="1195" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/99/USAJ3504545A_20220621T075730.png" group-title="Sports",Cars
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 
+
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2905896429.jpg",파묘
+http://192.168.31.2:5244/d/Quark/%E9%AB%98%E7%A0%81%E3%80%8A%E7%A0%B4%E5%A2%93%E3%80%8B2024/%5B2024%E9%9F%A9%E5%BD%B1%5D%5B%E7%A0%B4%E5%A2%93%5D%5B1080p%5D%5B%E5%B0%8F%E7%8E%A9%E5%89%A7%5D.mp4
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-1
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E01.Red.Light.Green.Light.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-2
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E02.Hell.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-3
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E03.The.Man.with.the.Umbrella.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-4
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E04.Stick.to.the.Team.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-5
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E05.A.Fair.World.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-6
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E06.Gganbu.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-7
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E07.VIPS.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-8
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E08.Front.Man.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-9
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E09.One.Lucky.Day.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-1
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E01.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-2
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E02.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-3
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E03.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-4
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E04.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-5
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E05.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-6
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E06.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-7
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E07.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
+
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈1
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8001.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈2
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8002.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈3
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8003.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈4
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8004.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈5
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8005.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈6
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8006.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈8
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8008.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈9
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8009.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈11
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8011.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://bkimg.cdn.bcebos.com/pic/30adcbef76094b36acaff28c23956bd98d1001e93702?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",정숙한 세일즈12
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8012.mp4
+
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는1
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/01.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는2
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/02.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는3
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/03.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는4
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/04.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는5
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/05.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는6
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/06.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는7
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/07.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는8
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/08.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는9
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/09.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는10
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/10.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는11
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/11.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는12
+http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/12.mp4
 
