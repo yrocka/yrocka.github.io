@@ -379,8 +379,7 @@ http://zzy789.xyz/douyu1.php?id=252802#http://159.75.85.63:35455/douyu/252802
 http://zzy789.xyz/douyu1.php?id=36337#http://159.75.85.63:35455/douyu/36337
 #EXTINF:-1 group-title="💓专享源🅱️",贝爷欧美IMAX厅
 http://zzy789.xyz/douyu1.php?id=4332#http://159.75.85.63:35455/douyu/4332
-#EXTINF:-1 group-title="💓专享源🅱️",xxxxxxxx驯荒记
-http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/Quark/驯荒记%20American%20Primeval%20/04.mp4
+
 
 
 #EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
@@ -453,6 +452,9 @@ https://jtvonair.sbsoft.net/jtv_live/myStream/chunklist_w1656783869.m3u8
 http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",ArirangTV FHD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="한국" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",xxxxxx
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/Quark/驯荒记%20American%20Primeval%20/04.mp4
 
 
 #EXTM3U url-tvg="https://kkgithub.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
