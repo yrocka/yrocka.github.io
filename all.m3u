@@ -451,9 +451,9 @@ http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",ArirangTV FHD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="한국" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",xxxxxx
-http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%A9%AF%E8%8D%92%E8%AE%B0%20American%20Primeval%20/04.mp4
 
+#EXTINF:-1 group-title="영화" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",xxxxxx
+http://192.168.31.2:5244/d/Quark/4K%20%E6%9D%9C%E6%AF%94%E8%A7%86%E7%95%8C%E3%80%90%E5%86%85%E5%B0%81%E4%B8%AD%E5%AD%97%E3%80%91%E8%8B%B1%E8%AF%AD/Avatar.The.Way.of.Water.2022.REPACK.2160p.WEB-DL.DDP5.1.Atmos.DV.H.265-APEX.mkv
 
 #EXTM3U url-tvg="https://kkgithub.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
 #EXTINF:-1 channel-id="samsung-KRBC20000347" tvg-id="KRBC20000347" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20231114T070131SQUARE.png_20231114070132.png" tvg-chno="623" group-title="예능" , MBC 안싸우면 다행이야
