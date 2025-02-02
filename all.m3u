@@ -751,57 +751,50 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b
 
 
 
-#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2905896429.jpg",파묘
-http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%AB%98%E7%A0%81%E3%80%8A%E7%A0%B4%E5%A2%93%E3%80%8B2024/%5B2024%E9%9F%A9%E5%BD%B1%5D%5B%E7%A0%B4%E5%A2%93%5D%5B1080p%5D%5B%E5%B0%8F%E7%8E%A9%E5%89%A7%5D.mp4
-#EXTINF:-1 group-title="영화" tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2899692123.jpg",3일의 휴가 (2023)
-http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/3%E5%A4%A9%E7%9A%84%E4%BC%91%E5%81%87%203%EC%9D%BC%EC%9D%98%20%ED%9C%B4%EA%B0%80%20(2023)/Our.Season.2023.1080p.WEB-DL.H264.AAC.mkv
-#EXTINF:-1 group-title="영화" tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2903686353.jpg",소풍 (2023)
-http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%83%8A%E6%B8%B8%5B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D.Picnic.2023.1080p.WEB-DL.AAC.H264-ParkHD/%E9%83%8A%E6%B8%B8.Picnic.2023.1080p.WEB-DL.AAC.H264-ParkHD.mkv
-
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-1
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-1
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E01.Red.Light.Green.Light.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-2
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-2
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E02.Hell.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-3
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-3
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E03.The.Man.with.the.Umbrella.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-4
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-4
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E04.Stick.to.the.Team.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
 
 
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-5
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-5
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E05.A.Fair.World.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-6
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-6
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E06.Gganbu.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-7
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-7
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E07.VIPS.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-8
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-8
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E08.Front.Man.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
-#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2677934359.jpg",오징어게임 시즌1-9
+#EXTINF:-1 group-title="오징어게임 시즌1" tvg-logo="https://bkimg.cdn.bcebos.com/pic/0b46f21fbe096b63f62480574e6b9044ebf81a4c0639?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌1-9
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%B8%80%E5%AD%A3/%E9%B1%BF%20Y%E6%B8%B8%E6%88%8F4K%20%E3%80%90%E5%86%85%E5%B0%81%E7%AE%80%E7%B9%81%E8%8B%B1%E5%AD%97%E5%B9%95%E3%80%91/%E9%B1%BF%E9%B1%BC%E6%B8%B8%E6%88%8F.Squid.Game.S01E09.One.Lucky.Day.2160p.NF.WEB-DL.DDP.5.1.Atmos.H.265-PanWEB.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-1
+#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135ccae17d2b11ea8d3fd1fef07?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌2-1
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E01.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-2
+#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135ccae17d2b11ea8d3fd1fef07?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌2-2
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E02.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-3
+#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135ccae17d2b11ea8d3fd1fef07?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌2-3
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E03.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-4
+#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135ccae17d2b11ea8d3fd1fef07?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌2-4
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E04.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-5
+#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135ccae17d2b11ea8d3fd1fef07?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌2-5
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E05.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-6
+#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135ccae17d2b11ea8d3fd1fef07?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌2-6
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E06.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
 
-#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2915770669.jpg",오징어게임 시즌2-7
+#EXTINF:-1 group-title="오징어게임 시즌2" tvg-logo="https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3eb135ccae17d2b11ea8d3fd1fef07?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",오징어게임 시즌2-7
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/Y%20Y%E9%B1%BC%E6%B8%B8%E6%88%8F/%E7%AC%AC%E4%BA%8C%E5%AD%A3%20%E5%85%A8%E9%9B%86/%E5%85%A87%E9%9B%86%204K%20%E5%86%85%E5%B0%81%E5%A4%9A%E5%9B%BD%E5%AD%97%E5%B9%95/Squid.Game.S02E07.2160p.NF.WEB-DL.DDP5.1.Atmos.H.265-TZFILE.mkv
 
 
@@ -827,28 +820,47 @@ http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.1
 http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%9F%A9%E5%89%A7.19%E7%A6%81.%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%80/%E8%B4%9E%E6%B7%91%E7%9A%84%E6%8E%A8%E9%94%8012.mp4
 
 
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는1
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는1
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/01.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는2
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는2
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/02.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는3
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는3
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/03.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는4
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는4
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/04.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는5
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는5
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/05.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는6
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는6
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/06.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는7
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는7
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/07.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는8
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는8
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/08.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는9
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는9
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/09.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는10
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는10
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/10.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는11
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는11
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/11.mp4
-#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2914728104.jpg",지금 거신 전화는12
+#EXTINF:-1 group-title="지금 거신 전화는" tvg-logo="https://bkimg.cdn.bcebos.com/pic/472309f790529822720ec936b7936ccb0a46f31f7eb6?x-bce-process=image/format,f_auto/watermark,image_d2F0ZXIvYmFpa2UyNzI,g_7,xp_5,yp_5,P_20/resize,m_lfit,limit_1,h_1080",지금 거신 전화는12
 http://192.168.31.2:5244/d/Quark/%E3%80%90%E9%9F%A9%E5%89%A7%E3%80%91%E7%8E%B0%E5%9C%A8%E6%8B%A8%E6%89%93%E7%9A%84%E7%94%B5%E8%AF%9D/12.mp4
+
+
+
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2905896429.jpg",파묘 (2024)
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%AB%98%E7%A0%81%E3%80%8A%E7%A0%B4%E5%A2%93%E3%80%8B2024/%5B2024%E9%9F%A9%E5%BD%B1%5D%5B%E7%A0%B4%E5%A2%93%5D%5B1080p%5D%5B%E5%B0%8F%E7%8E%A9%E5%89%A7%5D.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2916017159.jpg",误判 (2024)
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/wupa%20n1%E5%88%A4/4KHQ.mkv
+#EXTINF:-1 group-title="영화" tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2899692123.jpg",3일의 휴가 (2023)
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/3%E5%A4%A9%E7%9A%84%E4%BC%91%E5%81%87%203%EC%9D%BC%EC%9D%98%20%ED%9C%B4%EA%B0%80%20(2023)/Our.Season.2023.1080p.WEB-DL.H264.AAC.mkv
+#EXTINF:-1 group-title="영화" tvg-logo="https://img3.doubanio.com/view/photo/l/public/p2903686353.jpg",소풍 (2023)
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E9%83%8A%E6%B8%B8%5B%E4%B8%AD%E6%96%87%E5%AD%97%E5%B9%95%5D.Picnic.2023.1080p.WEB-DL.AAC.H264-ParkHD/%E9%83%8A%E6%B8%B8.Picnic.2023.1080p.WEB-DL.AAC.H264-ParkHD.mkv
+#EXTINF:-1 group-title="영화" tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2555560335.jpg",악인전 (2019)
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E6%81%B6%E4%BA%BA%E4%BC%A0/%E6%81%B6%E4%BA%BA%E4%BC%A0.2019.%20mp4
+
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2552579818.jpg",나의 특별한 형제 (2019)
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E6%88%91%E7%9A%84%E4%B8%80%E7%BA%A7%E5%85%84%E5%BC%9F/2019.%E6%88%91%E7%9A%84%E4%B8%80%E7%BA%A7%E5%85%84%E5%BC%9F.1080P.mp4
+#EXTINF:-1 group-title="영화" tvg-logo="https://img1.doubanio.com/view/photo/l/public/p2565644840.jpg",어린 의뢰인 (2019)
+http://[240e:3a0:e0d:b86c:eda2:419c:4111:1375]:5244/d/Quark/%E5%B0%8F%E5%A7%94%E6%89%98%E4%BA%BA/2019.%E5%B0%8F%E5%A7%94%E6%89%98%E4%BA%BA.1080P.mp4
 
