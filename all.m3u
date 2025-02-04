@@ -187,11 +187,10 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="한국",TV조선2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+#EXTINF:-1 tvg-id="MMBBNN" group-title="한국" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="한국" group-title="한국",MBN
+https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
 #EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
-#EXTINF:-1 tvg-id="MMBBNN" group-title="한국" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="한국" group-title="Korean",MBN
-#EXTVLCOPT:http-referrer=https://www.mbn.co.kr/vod/onair
-https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
 
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="한국",KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
@@ -218,16 +217,7 @@ https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 #EXTINF:-1 group-title="한국",이벤트TV
 https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="한국",tvN1
-https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="한국",tvN2
-https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="한국",tvN3
-https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="한국",tvN5
-https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
-#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="한국",tvN asia
-https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+
 
 #EXTINF:-1,tvg-id="Korea TV" tvg-name="Korea TV" tvg-logo="https://yrocka.github.io/icon/KTV.jpg" group-title="한국",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
@@ -296,26 +286,26 @@ https://www.soratv2.com/20241111/qyiDYmTx/1000kb/hls/index.m3u8
 #EXTINF:-1 group-title="한국예능 한일톱텐쇼" tvg-logo="https://qingutv6.xyz/upload/vod/20240828-1/4f25cbd849471a7ed63e4d4dd707f66e.jpg", 한일톱텐쇼 제16회
 https://www.soratv2.com/20241105/aRAc3LeO/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="한국예능 현역가왕2🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 4회
+#EXTINF:-1 group-title="한국예능 현역가왕2" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 4회
 https://www.soratv2.com/20241217/nG9PCajn/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 현역가왕2🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 3회
+#EXTINF:-1 group-title="한국예능 현역가왕2" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 3회
 https://www.soratv2.com/20241210/SuKQAPtd/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 현역가왕2🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 2회
+#EXTINF:-1 group-title="한국예능 현역가왕2" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 2회
 https://www.soratv2.com/20241210/Bm7fblyA//1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 현역가왕2🦆" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 1회
+#EXTINF:-1 group-title="한국예능 현역가왕2" tvg-logo="https://qingutv7.xyz/upload/vod/20241127-1/94d4e32aed058f302a877dd4ba68deaf.jpg", 현역가왕2 1회
 https://www.soratv2.com/20241126/C6mz8wcY/1000kb/hls/index.m3u8
 
-#EXTINF:-1 group-title="한국예능 복면가왕🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제476회
+#EXTINF:-1 group-title="한국예능 복면가왕" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제476회
 https://www.soratv2.com/20241215/eFPCHwBu/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 복면가왕🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제475회
+#EXTINF:-1 group-title="한국예능 복면가왕" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제475회
 https://www.soratv2.com/20241201/705aOgmh/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 복면가왕🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제474회
+#EXTINF:-1 group-title="한국예능 복면가왕" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제474회
 https://www.soratv2.com/20241124/dle5nVIQ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 복면가왕🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제473회
+#EXTINF:-1 group-title="한국예능 복면가왕" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제473회
 https://www.soratv2.com/20241117/svDXX9ZJ/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 복면가왕🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제472회
+#EXTINF:-1 group-title="한국예능 복면가왕" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제472회
 https://www.soratv2.com/20241110/y0acY0VB/1000kb/hls/index.m3u8
-#EXTINF:-1 group-title="한국예능 복면가왕🦆" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제471회
+#EXTINF:-1 group-title="한국예능 복면가왕" tvg-logo="https://qingutv6.xyz/upload/vod/20241103-1/756dd5e37f61516c0130ffd1537d8628.jpg",  복면가왕 제471회
 https://www.soratv2.com/20241103/yxkKCGsL/1000kb/hls/index.m3u8
 
 
