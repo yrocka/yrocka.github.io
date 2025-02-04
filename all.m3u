@@ -256,6 +256,21 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
 
+
+#EXTINF:-1 group-title="한국" tvg-logo="https://live.fanmingming.com/tv/韩国电影1.png",영화
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="한국" tvg-logo="https://live.fanmingming.com/tv/韩国电影2.png",영화2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 group-title="한국" tvg-logo="https://live.fanmingming.com/tv/韩国电影3.png",영화3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1 group-title="한국" tvg-logo="https://live.fanmingming.com/tv/TV3.png",TV3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 group-title="한국" tvg-logo="https://live.fanmingming.com/tv/TV4.png",TV4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+#EXTINF:-1 group-title="한국" tvg-logo="https://live.fanmingming.com/tv/14.png",14
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+
+
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png", KNN SBS
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png", KNN SBS
