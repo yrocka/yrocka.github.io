@@ -192,6 +192,8 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 http://mytv.dothome.co.kr/ch/catv/54.php
 #EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https://hls-live.mbn.co.kr/mbn-on-air/1000k/playlist.m3u8
+#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
+https://hls-live.mbn.co.kr/mbn-on-air/1000k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczODcyNTE3NH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=0rg-RL0rgsf6yb1yldyRQeDyk5EyJSpS7mTaoDc20p59W~9CGAWAKrzG-VQdmf~~~8hHtMKGcqPNRyvdgXKVDwvhDH3XaEL4wgNQRY4pcrrhLp1l0HbMgm1jKL0UgjTo6DzfoDDA7VgHWY2FkAz-UAXvHeUTft67iAvwBR9qppA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="한국",KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
@@ -214,9 +216,9 @@ http://mytv.dothome.co.kr/ch/catv/2.php
 http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 group-title="한국" tvg-logo="https://kenpark76.github.io/logo/연합뉴스TV.png",연합뉴스
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="한국",실버아이TV
+#EXTINF:-1 group-title="한국" tvg-logo="https://yrocka.github.io/icon/sliveri.jpeg",실버아이TV
 http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
-#EXTINF:-1 group-title="한국",이벤트TV
+#EXTINF:-1 group-title="한국" tvg-logo="https://yrocka.github.io/icon/evnent.png",이벤트TV
 https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
 
 
