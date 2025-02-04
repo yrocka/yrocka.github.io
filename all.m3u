@@ -181,16 +181,18 @@ https://www.freetv.top/migu/654102378.m3u8?migutoken=0e8bf027bfa2eb4db7d036aedc2
 https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 
 
-#EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="한국",TV조선
+#EXTINF:-1 tvg-id="TV Chosun" tvg-name="TV Chosun" tvg-logo="https://yrocka.github.io/icon/TVChosun.jpeg" group-title="한국",TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://i.imgur.com/Ev5JoBJ.png" group-title="한국",TV조선2
+#EXTINF:-1 tvg-id="TVChosun2" tvg-name="TVChosun2" tvg-logo="https://yrocka.github.io/icon/TVChosun2.jpeg" group-title="한국",TV조선2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 tvg-id="MMBBNN" group-title="한국" tvg-logo="https://i.imgur.com/MiQwAmJ.jpg" tvg-country="한국" group-title="한국",MBN
-https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
+
 #EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
 http://mytv.dothome.co.kr/ch/catv/54.php
+#EXTINF:-1 tvg-id="MMBBNN" tvg-name="MMBBNN" tvg-logo="https://yrocka.github.io/icon/MBN.jpg" group-title="한국",MBN
+https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
+
 
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="한국",KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
