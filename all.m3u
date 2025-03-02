@@ -64,6 +64,10 @@ http://10st.vcast.im/MYASIATV/SC79222439/playlist.m3u8
 #EXTINF:-1 group-title="한국" tvg-logo="https://yrocka.github.io/icon/evnent.png",이벤트TV
 https://wms5-kortv.akamaized.net/a_live/88107085/smil:20tv151.smil/.m3u8
 
+#EXTINF:-1 group-title="한국" tvg-logo="https://i.imgur.com/Tmb3xK8.png",한국가요
+http://live.kytv.co.kr:8080/hls/stream.m3u8
+#EXTINF:-1 group-title="한국",사랑의 콜센타
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_228_6EBB7613.m3u8
 
 #EXTINF:-1,tvg-id="KBS1" tvg-name="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="한국",KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
