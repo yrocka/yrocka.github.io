@@ -616,7 +616,8 @@ https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="International",Billiards TV
 https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Sports",HBO
+http://122.117.71.103:8556/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 #EXTINF:-1 tvg-id="SNY" tvg-name="SNY" group-title="Sports",SNY
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
 #EXTINF:-1 tvg-id="sptvnba.tv.vodafone.pt" tvg-name="NBA" group-title="Sports"  tvg-logo="https://cdn.nba.com/logos/leagues/logo-nba.svg",NBA TV HDTV
